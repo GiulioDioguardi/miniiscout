@@ -1,4 +1,3 @@
-
 # A very simple Flask Hello World app for you to get started with...
 
 from flask import Flask
@@ -9,3 +8,5 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello from Flasky!!!!'
 
+if __name__ == "__main__":
+    app.run()
