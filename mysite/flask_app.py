@@ -1,7 +1,7 @@
 import json
 import os
 
-from flask import Flask, render_template, abort
+from flask import Flask, render_template, abort, request
 
 app = Flask(__name__)
 
@@ -11,6 +11,13 @@ def read_json_file(filename):
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 QUESTIONS = read_json_file(os.path.join(ROOT, "questions.json"))
+
+def get_answered_questions():
+    answered = []
+    for q, cookie in enumerate(request.cookies):
+        if "Bjxdd03chm" == request.cookies[cookie]:
+            answered.append(q + 1)
+    return answered
 
 @app.context_processor
 def inject_debug():
@@ -22,7 +29,7 @@ def index():
 
 @app.route('/list')
 def question_list():
-    return render_template('list.html', questions=QUESTIONS)
+    return render_template('list.html', questions=QUESTIONS, answered=get_answered_questions())
 
 @app.route('/map/<questionnumber>')
 def map_page(questionnumber):
