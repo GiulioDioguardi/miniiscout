@@ -4,6 +4,13 @@
 var marker;
 var polygon;
 
+function setCookie(cname, cvalue, exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 51.50461728424621, lng: 5.371673673893977 },
@@ -23,12 +30,14 @@ function initMap() {
   });
 }
 
-function checkPosition() {
+function checkPosition(qNumber) {
     if (google.maps.geometry.poly.containsLocation(marker.position, polygon)) {
-        alert("YES");
+        alert("Goed gedaan! Dit is het juiste antwoord.\nJe vraag wordt als goed gemarkeerd en je keert terug naar de vragenlijst");
+        setCookie(qNumber, "Bjxdd03chm", 2000)
+        window.location.replace("/list");
       }
       else
       {
-        alert("NO");
+        alert("Dit is niet het juiste antwoord. Zet je pin op een andere plek en probeer het nog eens");
       }
 }
