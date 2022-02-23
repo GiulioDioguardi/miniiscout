@@ -35,6 +35,7 @@ const triangleCoords = [
     <p>{{ line }}</p>
     {% endfor %}
     <button type="button" onclick="checkPosition({{ number }})">Controleer antwoord</button>
+    <button type="button" onclick="window.location.replace('/list')">Ga terug naar de vragenlijst</button>
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
