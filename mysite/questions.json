@@ -29,6 +29,71 @@
     ]
   },
   {
+    "title": "Zweed/Zweet",
+    "body": [
+      "Zweed of zweet, als je het zo uitspreekt, dan kun je niet direct verstaan wat je bedoelt. Het wordt al helemaal lastig als ze allebei in een zin voorkomen.",
+      "Dus hier komt zo'n zin. Waar zweet een Zweed?"
+    ],
+    "answer": [
+      {
+        "lng": 12.5587554,
+        "lat": 56.1038317
+      },
+      {
+        "lng": 12.9103179,
+        "lat": 55.3115628
+      },
+      {
+        "lng": 14.4484038,
+        "lat": 55.361551
+      },
+      {
+        "lng": 14.9318022,
+        "lat": 56.0793161
+      },
+      {
+        "lng": 15.8985991,
+        "lat": 56.0547848
+      },
+      {
+        "lng": 17.4366851,
+        "lat": 58.5005106
+      },
+      {
+        "lng": 20.0294585,
+        "lat": 59.3622448
+      },
+      {
+        "lng": 18.9308257,
+        "lat": 60.5933733
+      },
+      {
+        "lng": 19.8097319,
+        "lat": 62.9811245
+      },
+      {
+        "lng": 26.006021,
+        "lat": 66.5709341
+      },
+      {
+        "lng": 22.490396,
+        "lat": 69.6310513
+      },
+      {
+        "lng": 17.5245757,
+        "lat": 69.3229269
+      },
+      {
+        "lng": 9.6144194,
+        "lat": 59.7850877
+      },
+      {
+        "lng": 12.5587554,
+        "lat": 56.1038317
+      }
+    ]
+  },
+  {
     "title": "Minecraft HQ",
     "body": [
       "Minecraft is een heel populair spel. Misschien speel jij het ook wel. Net als deze website moet Minecraft ook ergens gemaakt worden. Daarvoor heb je een speciale plek nodig.",
@@ -70,6 +135,251 @@
       {
         "lng": 18.0499921,
         "lat": 59.3209604
+      }
+    ]
+  },
+  {
+    "title": "Lego",
+    "body": [
+      "Dit land is bekend van de legoblokjes, Hans Christian Andersen, een princess uit dat land doet belangrijke dingen voor de WAGGGS en er hebben daadwerkelijk mensen de echte iScout aan megedaan"
+    ],
+    "answer": [
+      {
+        "lng": 9.1209848,
+        "lat": 55.7380247
+      },
+      {
+        "lng": 9.1202982,
+        "lat": 55.7365509
+      },
+      {
+        "lng": 9.126478,
+        "lat": 55.7310175
+      },
+      {
+        "lng": 9.1347177,
+        "lat": 55.7341105
+      },
+      {
+        "lng": 9.1357477,
+        "lat": 55.7356569
+      },
+      {
+        "lng": 9.1284092,
+        "lat": 55.7385804
+      },
+      {
+        "lng": 9.1209848,
+        "lat": 55.7380247
+      }
+    ]
+  },
+  {
+    "title": "Mongool",
+    "body": [
+      "We zeggen wel eens tegen iemand die we niet slim vinden \"Mongool!\". Echter, er is een land die vol met Mongolen zit, maar de meeste van hen zijn wel slim."
+    ],
+    "answer": [
+      {
+        "lng": 87.7080816,
+        "lat": 49.2524595
+      },
+      {
+        "lng": 90.3887457,
+        "lat": 45.072433
+      },
+      {
+        "lng": 96.2334723,
+        "lat": 42.5681302
+      },
+      {
+        "lng": 105.1543707,
+        "lat": 41.1278613
+      },
+      {
+        "lng": 118.6455816,
+        "lat": 45.5668314
+      },
+      {
+        "lng": 120.5352301,
+        "lat": 47.0840367
+      },
+      {
+        "lng": 117.7666754,
+        "lat": 48.4135964
+      },
+      {
+        "lng": 115.4815191,
+        "lat": 50.3584978
+      },
+      {
+        "lng": 103.3086676,
+        "lat": 51.6307014
+      },
+      {
+        "lng": 98.5625738,
+        "lat": 52.1999298
+      },
+      {
+        "lng": 96.3213629,
+        "lat": 50.1899817
+      },
+      {
+        "lng": 92.3223394,
+        "lat": 51.1646008
+      },
+      {
+        "lng": 87.7080816,
+        "lat": 49.2524595
+      }
+    ]
+  },
+  {
+    "title": "Vliegen",
+    "body": [
+      "Een tekst van een bekend liedje luidt: \"We moeten rennen, springen, vliegen, duiken, vallen, opstaan en weer doorgaan. Maar waar kan je hier in de buurt echt beginnen met vliegen?"
+    ],
+    "answer": [
+      {
+        "lng": 5.3561062,
+        "lat": 51.4392144
+      },
+      {
+        "lng": 5.3645176,
+        "lat": 51.4343455
+      },
+      {
+        "lng": 5.4012531,
+        "lat": 51.4473995
+      },
+      {
+        "lng": 5.4030556,
+        "lat": 51.4577224
+      },
+      {
+        "lng": 5.3927559,
+        "lat": 51.4680429
+      },
+      {
+        "lng": 5.3876061,
+        "lat": 51.4692192
+      },
+      {
+        "lng": 5.3812546,
+        "lat": 51.465209
+      },
+      {
+        "lng": 5.356707,
+        "lat": 51.4540321
+      },
+      {
+        "lng": 5.3561062,
+        "lat": 51.4392144
+      }
+    ]
+  },
+  {
+    "title": "Huis",
+    "body": [
+      "Op deze plek aan de andere kant van de oceaan staat al heel lang een huis die wel heel erg wit is.",
+      "Kun jij vinden waar dat is?"
+    ],
+    "answer": [
+      {
+        "lng": -77.0368523,
+        "lat": 38.8979518
+      },
+      {
+        "lng": -77.0378179,
+        "lat": 38.8979268
+      },
+      {
+        "lng": -77.0378822,
+        "lat": 38.8973214
+      },
+      {
+        "lng": -77.0376623,
+        "lat": 38.8972818
+      },
+      {
+        "lng": -77.0353824,
+        "lat": 38.8972901
+      },
+      {
+        "lng": -77.0353315,
+        "lat": 38.8979811
+      },
+      {
+        "lng": -77.0359376,
+        "lat": 38.8979811
+      },
+      {
+        "lng": -77.0368523,
+        "lat": 38.8979518
+      }
+    ]
+  },
+  {
+    "title": "Getal",
+    "body": [
+      "We gaan naar het grootste getal dat gemaakt is op de aarde."
+    ],
+    "answer": [
+      {
+        "lng": 40.3571263,
+        "lat": 51.1934581
+      },
+      {
+        "lng": 40.3543582,
+        "lat": 51.191636
+      },
+      {
+        "lng": 40.3575769,
+        "lat": 51.1896591
+      },
+      {
+        "lng": 40.3603128,
+        "lat": 51.1915082
+      },
+      {
+        "lng": 40.3571263,
+        "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "WK voetbal 2022",
+    "body": [
+      "Omdat het er zo warm is, hebben we toch maar besloten om deze Wereldkampioenschappen Voetbal maar in de winter te houden. Aan jullie de vraag: in welke stad?"
+    ],
+    "answer": [
+      {
+        "lng": 51.3332832,
+        "lat": 25.2511292
+      },
+      {
+        "lng": 51.4273537,
+        "lat": 25.0883095
+      },
+      {
+        "lng": 51.6656197,
+        "lat": 25.1734752
+      },
+      {
+        "lng": 51.6175545,
+        "lat": 25.3305956
+      },
+      {
+        "lng": 51.5365303,
+        "lat": 25.4298552
+      },
+      {
+        "lng": 51.3463295,
+        "lat": 25.3392841
+      },
+      {
+        "lng": 51.3332832,
+        "lat": 25.2511292
       }
     ]
   }
