@@ -40,4 +40,4 @@ def map_page(questionnumber):
         abort(404)
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
