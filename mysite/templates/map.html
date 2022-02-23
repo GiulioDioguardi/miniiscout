@@ -7,6 +7,63 @@
     <script src="/static/map.js"></script>
   </head>
   <body>
+    <script>
+// This example requires the Geometry library. Include the libraries=geometry
+// parameter when you first load the API. For example:
+// <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry">
+function initMap() {
+  const map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: 51.50461728424621, lng: 5.371673673893977 },
+    zoom: 2,
+  });
+  const triangleCoords = [
+    { lat: 25.774, lng: -80.19 },
+    { lat: 18.466, lng: -66.118 },
+    { lat: 32.321, lng: -64.757 },
+  ];
+  const bermudaTriangle = new google.maps.Polygon({
+    paths: triangleCoords,
+    strokeColor: "#FF0000",
+    strokeOpacity: 0.8,
+    strokeWeight: 2,
+    fillColor: "#FF0000",
+    fillOpacity: 0.35,
+  });
+
+  {% if debug %}
+  bermudaTriangle.setMap(map);
+  {% endif %}
+
+  google.maps.event.addListener(map, "click", (e) => {
+    const resultColor = google.maps.geometry.poly.containsLocation(
+      e.latLng,
+      bermudaTriangle
+    )
+      ? "blue"
+      : "red";
+    const resultPath = google.maps.geometry.poly.containsLocation(
+      e.latLng,
+      bermudaTriangle
+    )
+      ? // A triangle.
+        "m 0 -1 l 1 2 -2 0 z"
+      : google.maps.SymbolPath.CIRCLE;
+
+    new google.maps.Marker({
+      position: e.latLng,
+      map,
+      icon: {
+        path: resultPath,
+        fillColor: resultColor,
+        fillOpacity: 0.2,
+        strokeColor: "white",
+        strokeWeight: 0.5,
+        scale: 10,
+      },
+    });
+  });
+}
+    </script>
     <div id="map"></div>
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->

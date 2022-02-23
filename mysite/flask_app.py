@@ -4,13 +4,18 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+@app.context_processor
+def inject_debug():
+    return dict(debug=app.debug)
+
 @app.route('/')
 def index():
     return render_template('index.html')
 
 @app.route('/map')
-def map():
-    return render_template('map.html')
+def map_page():
+    context = {}
+    return render_template('map.html', context=context)
 
 if __name__ == "__main__":
     app.run(debug=True)
