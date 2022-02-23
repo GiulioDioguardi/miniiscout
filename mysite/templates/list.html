@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vragenlijst</title>
+</head>
+<body>
+<ol>
+    {% for q in questions %}
+    <li><a href="{{ url_for('map_page', questionnumber=loop.index) }}">{{q.title}}</a></li>
+    {% endfor %}
+</ol>
+</body>
+</html>
