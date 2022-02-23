@@ -4,13 +4,14 @@
     <title>Vraag {{ number }}</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" type="text/css" href="/static/map.css" />
-    <script src="/static/map.js"></script>
   </head>
   <body>
     <script>
 // This example requires the Geometry library. Include the libraries=geometry
 // parameter when you first load the API. For example:
 // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry">
+var marker;
+
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 51.50461728424621, lng: 5.371673673893977 },
@@ -35,31 +36,12 @@ function initMap() {
   {% endif %}
 
   google.maps.event.addListener(map, "click", (e) => {
-    const resultColor = google.maps.geometry.poly.containsLocation(
-      e.latLng,
-      bermudaTriangle
-    )
-      ? "blue"
-      : "red";
-    const resultPath = google.maps.geometry.poly.containsLocation(
-      e.latLng,
-      bermudaTriangle
-    )
-      ? // A triangle.
-        "m 0 -1 l 1 2 -2 0 z"
-      : google.maps.SymbolPath.CIRCLE;
-
-    new google.maps.Marker({
+    if (marker && marker.setMap) {
+      marker.setMap(null);
+    }
+    marker = new google.maps.Marker({
       position: e.latLng,
-      map,
-      icon: {
-        path: resultPath,
-        fillColor: resultColor,
-        fillOpacity: 0.2,
-        strokeColor: "white",
-        strokeWeight: 0.5,
-        scale: 10,
-      },
+      map
     });
   });
 }
