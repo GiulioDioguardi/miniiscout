@@ -1,12 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Vraag {{ number }}</title>
+{% extends 'base.html' %}
+{% block title %}Vraag {{ number }}{% endblock %}
+{% block head %}
+{{ super() }}
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" type="text/css" href="/static/map.css" />
     <script src="/static/map.js"></script>
-  </head>
-  <body>
+{% endblock %}
+{% block content %}
     <script>
 function initPolygon(map) {
 const triangleCoords = [
@@ -41,5 +41,4 @@ const triangleCoords = [
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnuZO6JKVi7WlJ4l4KDyK4OvdSMbUwxYg&callback=initMap&libraries=geometry&v=weekly"
       async
     ></script>
-  </body>
-</html>
+{% endblock %}

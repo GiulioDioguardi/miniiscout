@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Mini iScout Frama</title>
-</head>
-<body>
+{% extends 'base.html' %}
+{% block title %}Mini iScout Frama{% endblock %}
+{% block content %}
 <img src="/static/jacala.jpg" width="200px" height="200px">
 <p>Deze website wordt de mini iScout voor 5 maart 2022. Tot snel!</p>
-</body>
-</html>
+<p>Voor de vragenlijst, <a href="{{ url_for('question_list') }}">klik hier</a></p>
+{% endblock %}
