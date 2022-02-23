@@ -16,7 +16,7 @@ def get_answered_questions():
     answered = []
     for cookie in request.cookies:
         if "Bjxdd03chm" == request.cookies[cookie]:
-            answered.append(cookie)
+            answered.append(int(cookie))
     print(answered)
     return answered
 
