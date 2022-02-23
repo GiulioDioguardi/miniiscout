@@ -14,9 +14,10 @@ QUESTIONS = read_json_file(os.path.join(ROOT, "questions.json"))
 
 def get_answered_questions():
     answered = []
-    for q, cookie in enumerate(request.cookies):
+    for cookie in request.cookies:
         if "Bjxdd03chm" == request.cookies[cookie]:
-            answered.append(q + 1)
+            answered.append(int(cookie))
+    print(answered)
     return answered
 
 @app.context_processor

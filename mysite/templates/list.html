@@ -3,6 +3,7 @@
 {% block content %}
 <h1>Vragenlijst</h1>
 <p>Aantal goed beantwoorde vragen: <b>{{ answered|length }}</b></p>
+<script>console.log({{ answered }})</script>
 <p><a href="/">Hoofdpagina</a></p>
 <ol>
     {% for q in questions %}
