@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block title %}Vraag {{ number }}{% endblock %}
+{% block head %}
+{{ super() }}
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="/static/map.css" />
+    <script src="/static/map.js"></script>
+{% endblock %}
+{% block content %}
+    <script>
+function initPolygon(map) {
+const triangleCoords = [
+  {% for item in question.answer %}
+    { lat: {{ item.lat }}, lng: {{ item.lng }} },
+  {% endfor %}
+  ];
+  const polygon = new google.maps.Polygon({
+    paths: triangleCoords,
+    strokeColor: "#FF0000",
+    strokeOpacity: 0.8,
+    strokeWeight: 2,
+    fillColor: "#FF0000",
+    fillOpacity: 0.35,
+  });
+
+  {% if debug %}
+  polygon.setMap(map);
+  {% endif %}
+  return polygon;
+}
+    </script>
+    <div id="map"></div>
+    <h1>{{ question.title }}</h1>
+    {% for line in question.body %}
+    <p>{{ line }}</p>
+    {% endfor %}
+    <button type="button" onclick="checkPosition({{ number }})">Controleer antwoord</button>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnuZO6JKVi7WlJ4l4KDyK4OvdSMbUwxYg&callback=initMap&libraries=geometry&v=weekly"
+      async
+    ></script>
+{% endblock %}
