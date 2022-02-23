@@ -4,25 +4,17 @@
     <title>Vraag {{ number }}</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" type="text/css" href="/static/map.css" />
+    <script src="/static/map.js"></script>
   </head>
   <body>
     <script>
-// This example requires the Geometry library. Include the libraries=geometry
-// parameter when you first load the API. For example:
-// <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry">
-var marker;
-
-function initMap() {
-  const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 51.50461728424621, lng: 5.371673673893977 },
-    zoom: 2,
-  });
-  const triangleCoords = [
+function initPolygon(map) {
+const triangleCoords = [
   {% for item in question.answer %}
     { lat: {{ item.lat }}, lng: {{ item.lng }} },
   {% endfor %}
   ];
-  const bermudaTriangle = new google.maps.Polygon({
+  const polygon = new google.maps.Polygon({
     paths: triangleCoords,
     strokeColor: "#FF0000",
     strokeOpacity: 0.8,
@@ -32,18 +24,9 @@ function initMap() {
   });
 
   {% if debug %}
-  bermudaTriangle.setMap(map);
+  polygon.setMap(map);
   {% endif %}
-
-  google.maps.event.addListener(map, "click", (e) => {
-    if (marker && marker.setMap) {
-      marker.setMap(null);
-    }
-    marker = new google.maps.Marker({
-      position: e.latLng,
-      map
-    });
-  });
+  return polygon;
 }
     </script>
     <div id="map"></div>
@@ -51,6 +34,7 @@ function initMap() {
     {% for line in question.body %}
     <p>{{ line }}</p>
     {% endfor %}
+    <button type="button">Controleer antwoord</button>
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
