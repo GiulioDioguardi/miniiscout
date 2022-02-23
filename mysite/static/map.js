@@ -2,6 +2,7 @@
 // parameter when you first load the API. For example:
 // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry">
 var marker;
+var polygon;
 
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
@@ -9,7 +10,7 @@ function initMap() {
     zoom: 2,
   });
 
-  var polygon = initPolygon(map)
+  polygon = initPolygon(map)
 
   google.maps.event.addListener(map, "click", (e) => {
     if (marker && marker.setMap) {
@@ -23,5 +24,11 @@ function initMap() {
 }
 
 function checkPosition() {
-
+    if (google.maps.geometry.poly.containsLocation(marker.position, polygon)) {
+        alert("YES");
+      }
+      else
+      {
+        alert("NO");
+      }
 }

@@ -34,7 +34,7 @@ const triangleCoords = [
     {% for line in question.body %}
     <p>{{ line }}</p>
     {% endfor %}
-    <button type="button">Controleer antwoord</button>
+    <button type="button" onclick="checkPosition(polygon, marker)">Controleer antwoord</button>
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
