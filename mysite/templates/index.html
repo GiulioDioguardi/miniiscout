@@ -1,7 +1,17 @@
 {% extends 'base.html' %}
 {% block title %}Mini iScout Frama{% endblock %}
 {% block content %}
+<h1>Welkom op de site van Jacala's Mini iScout van Scouting Frama!</h1>
 <img src="/static/jacala.jpg" width="200px" height="200px">
-<p>Deze website wordt de mini iScout voor 5 maart 2022. Tot snel!</p>
-<p>Voor de vragenlijst, <a href="{{ url_for('question_list') }}">klik hier</a></p>
+<p>Leuk dat je meedoet! Ik hoop dat jullie een goede kennis hebben van de wereld, want die ga je zeker nodig hebben! We gaan met zijn allen een wereldreis maken en hopelijk leren we er vandaag iets van. Ik wens jullie alvast veel succes!</p>
+<h2>Uitleg</h2>
+<p>Het doel is om zoveel mogelijk vragen te beantwoorden. Elke vraag is een punt waard. De vragen staan op de site in een grote lijst. Die kies je zelf één uit. Volgorde maakt niet uit, wel staan de makkelijkere vragen vooraan.</p></
+<p>Het antwoord is altijd een plaats op de wereldkaart. Het is de bedoeling om de juiste plaats in te zoomen en dan te klikken op de kaart waarvan je denkt te weten wat het antwoord is.
+    Daarmee komt een speld in beeld. Klik dan op de knop “Controleer antwoord” om te zien of de plek juist is. Er komt een pop-up te staan wat het geval is.
+    Als je antwoord goed is dan keer je automatisch terug naar de vragenlijst en zal de vraag zijn afgevinkt.</p>
+<p>Je kan zo veel mogelijk pogingen doen om een vraag te beantwoorden, maar blijf goed nadenken. Als je een vraag toch niet weet kun je op de knop “Ga terug naar vragenlijst” klikken.</p>
+<p><br/></p>
+<p>Heb je een vraag, of werkt er iets niet? Vraag het aan Jacala</p>
+
+<p>Als je er klaar voor bent: De vragen lijst kun je <a href="{{ url_for('question_list') }}">hier</a> vinden.</p>
 {% endblock %}
