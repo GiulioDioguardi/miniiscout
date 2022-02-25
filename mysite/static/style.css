@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #ffdb4d;
+}
+a:link, a:visited {
+  color: black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+table, td, tr{
+  border: 1;
+  padding: 0 1em 0 0;
+  border-collapse: collapse;
+}
