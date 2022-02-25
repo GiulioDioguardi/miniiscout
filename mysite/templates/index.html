@@ -1,8 +1,8 @@
 {% extends 'base.html' %}
 {% block title %}Mini iScout Frama{% endblock %}
 {% block content %}
-<h1>Welkom op de site van Jacala's Mini iScout van Scouting Frama!</h1>
-<img src="/static/jacala.jpg" width="200px" height="200px">
+<h1 class="center">Welkom op de site van Jacala's Mini iScout van Scouting Frama!</h1>
+<img src="/static/Jacala.png" width="200px" height="200px">
 <p>Leuk dat je meedoet! Ik hoop dat jullie een goede kennis hebben van de wereld, want die ga je zeker nodig hebben! We gaan met zijn allen een wereldreis maken en hopelijk leren we er vandaag iets van. Ik wens jullie alvast veel succes!</p>
 <h2>Uitleg</h2>
 <p>Het doel is om zoveel mogelijk vragen te beantwoorden. Elke vraag is een punt waard. De vragen staan op de site in een grote lijst. Die kies je zelf één uit. Volgorde maakt niet uit, wel staan de makkelijkere vragen vooraan.</p></
@@ -13,5 +13,5 @@
 <p><br/></p>
 <p>Heb je een vraag, of werkt er iets niet? Vraag het aan Jacala</p>
 
-<p>Als je er klaar voor bent: De vragen lijst kun je <a href="{{ url_for('question_list') }}">hier</a> vinden.</p>
+<p>Als je er klaar voor bent: De vragen lijst kun je klikken op het onderstaande plaatje.</p> <a href="{{ url_for('question_list') }}"><img src="/static/miniiScout_logo_blackOnTransparant.png"></a>
 {% endblock %}
