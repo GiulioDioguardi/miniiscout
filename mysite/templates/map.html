@@ -34,6 +34,8 @@ const triangleCoords = [
     {% for line in question.body %}
     {% if '/static/images/' in line %}
     <p><a href="{{ line }}"><img src="{{ line }}" style="width:20%"></a></p>
+    {% elif 'http' in line %}
+    <p><a href="{{ line }}">{{ line }}</a></p>
     {% else %}
     <p>{{ line }}</p>
     {% endif %}
