@@ -486,7 +486,7 @@
     "title": "Schilderij (deel 1)",
     "body": [
       "In welk museum hangt dit schilderij?",
-      "/static/schilderij1.jfif"
+      "/static/images/schilderij1.jfif"
     ],
     "answer": [
       {
@@ -575,7 +575,7 @@
     "title": "Ruimteschip",
     "body": [
       "Dit gebouw lijkt een beetje op een ruimteschip. Waar staat hij?",
-      "/static/ruimteschip.jpg"
+      "/static/images/ruimteschip.jpg"
     ],
     "answer": [
       {
@@ -604,8 +604,8 @@
     "title": "Precies in het midden",
     "body": [
       "Hier zijn we wel eens geweest, namelijk een aantal jaar geleden met Frama Morgana. Kijk maar op de foto's",
-      "/static/Middelpunt1.jpeg",
-      "/static/Middelpunt2.jpeg",
+      "/static/images/Middelpunt1.jpeg",
+      "/static/images/Middelpunt2.jpeg",
       "Hier gaan we nu weer even naartoe."
     ],
     "answer": [
@@ -643,7 +643,7 @@
     "title": "Hal",
     "body": [
       "We gaan  naar dit iconische gebouw",
-      "/static/mh.jpg"
+      "/static/images/mh.jpg"
     ],
     "answer": [
       {
@@ -700,7 +700,7 @@
     "title": "Gearresteerd",
     "body": [
       "Op deze plek zijn de boeven op de foto gearresteerd",
-      "/static/Arrestatie.jpg"
+      "/static/images/Arrestatie.jpg"
     ],
     "answer": [
       {
@@ -730,7 +730,7 @@
     "body": [
       "In welk museum hangt dit schilderij van een bekende generaal uit de 19e eeuw?",
       "(Dus de eeuw van 1801 tot 1900)",
-      "/static/Napoleon.jpg"
+      "/static/images/Napoleon.jpg"
     ],
     "answer": [
       {
@@ -808,7 +808,7 @@
     "title": "Scheef",
     "body": [
       "We gaan naar dit iconische gebouw",
-      "/static/scheve_toren.jpg"
+      "/static/images/scheve_toren.jpg"
     ],
     "answer": [
       {
@@ -977,7 +977,7 @@
     "title": "Toren",
     "body": [
       "We gaan naar dit iconische gebouw",
-      "/static/toren.jpg"
+      "/static/images/toren.jpg"
     ],
     "answer": [
       {
@@ -1062,7 +1062,7 @@
     "title": "Opera",
     "body": [
       "We gaan naar dit iconische gebouw",
-      "/static/opera.jpg"
+      "/static/images/opera.jpg"
     ],
     "answer": [
       {
