@@ -43,7 +43,7 @@ const triangleCoords = [
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnuZO6JKVi7WlJ4l4KDyK4OvdSMbUwxYg&callback=initMap&libraries=geometry&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key={% if debug %}AIzaSyC2h6n5qW8vLfMDtCM6tGGJns4ebMY1SP8{% else %}AIzaSyDnuZO6JKVi7WlJ4l4KDyK4OvdSMbUwxYg{% endif %}&callback=initMap&libraries=geometry&v=weekly"
       async
     ></script>
 {% endblock %}
