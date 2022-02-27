@@ -30,8 +30,6 @@ def index():
 
 @app.route('/list')
 def question_list():
-    for item in QUESTIONS:
-        print(item['title'])
     return render_template('list.html', questions=QUESTIONS, answered=get_answered_questions())
 
 @app.route('/map/<questionnumber>')
