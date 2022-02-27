@@ -312,7 +312,7 @@
   {
     "title": "Lego",
     "body": [
-      "Dit land is bekend van de legoblokjes, Hans Christian Andersen, een princess uit dat land doet belangrijke dingen voor de WAGGGS en er hebben daadwerkelijk mensen de echte iScout aan megedaan"
+      "Dit land is bekend van de legoblokjes, uit het land van Hans Christian Andersen."
     ],
     "answer": [
       {
@@ -391,66 +391,6 @@
       {
         "lng": 4.6298134,
         "lat": 51.9862536
-      }
-    ]
-  },
-  {
-    "title": "Mongool",
-    "body": [
-      "We zeggen wel eens tegen iemand die we niet slim vinden \"Mongool!\". Echter, er is een land die vol met Mongolen zit, maar de meeste van hen zijn wel slim."
-    ],
-    "answer": [
-      {
-        "lng": 87.7080816,
-        "lat": 49.2524595
-      },
-      {
-        "lng": 90.3887457,
-        "lat": 45.072433
-      },
-      {
-        "lng": 96.2334723,
-        "lat": 42.5681302
-      },
-      {
-        "lng": 105.1543707,
-        "lat": 41.1278613
-      },
-      {
-        "lng": 118.6455816,
-        "lat": 45.5668314
-      },
-      {
-        "lng": 120.5352301,
-        "lat": 47.0840367
-      },
-      {
-        "lng": 117.7666754,
-        "lat": 48.4135964
-      },
-      {
-        "lng": 115.4815191,
-        "lat": 50.3584978
-      },
-      {
-        "lng": 103.3086676,
-        "lat": 51.6307014
-      },
-      {
-        "lng": 98.5625738,
-        "lat": 52.1999298
-      },
-      {
-        "lng": 96.3213629,
-        "lat": 50.1899817
-      },
-      {
-        "lng": 92.3223394,
-        "lat": 51.1646008
-      },
-      {
-        "lng": 87.7080816,
-        "lat": 49.2524595
       }
     ]
   },
@@ -902,6 +842,122 @@
     ]
   },
   {
+    "title": "12e provincie",
+    "body": [
+      "We gaan naar onze nieuwste en twaalfde provincie"
+    ],
+    "answer": [
+      {
+        "lng": 5.1127339,
+        "lat": 52.3880562
+      },
+      {
+        "lng": 5.1525594,
+        "lat": 52.3192757
+      },
+      {
+        "lng": 5.3475667,
+        "lat": 52.2806447
+      },
+      {
+        "lng": 5.3983785,
+        "lat": 52.2461842
+      },
+      {
+        "lng": 5.5260945,
+        "lat": 52.2730825
+      },
+      {
+        "lng": 5.5810262,
+        "lat": 52.3452907
+      },
+      {
+        "lng": 5.792513,
+        "lat": 52.4358039
+      },
+      {
+        "lng": 5.8639241,
+        "lat": 52.5186115
+      },
+      {
+        "lng": 5.8227254,
+        "lat": 52.5753991
+      },
+      {
+        "lng": 5.8048726,
+        "lat": 52.6079353
+      },
+      {
+        "lng": 6.0149861,
+        "lat": 52.6412807
+      },
+      {
+        "lng": 5.943575,
+        "lat": 52.6679388
+      },
+      {
+        "lng": 5.9301854,
+        "lat": 52.6714781
+      },
+      {
+        "lng": 5.9569646,
+        "lat": 52.6889622
+      },
+      {
+        "lng": 5.9679509,
+        "lat": 52.6952048
+      },
+      {
+        "lng": 5.9449483,
+        "lat": 52.7191266
+      },
+      {
+        "lng": 5.9202661,
+        "lat": 52.7543845
+      },
+      {
+        "lng": 5.8570947,
+        "lat": 52.7818042
+      },
+      {
+        "lng": 5.8200158,
+        "lat": 52.7876183
+      },
+      {
+        "lng": 5.7486047,
+        "lat": 52.8382509
+      },
+      {
+        "lng": 5.7060327,
+        "lat": 52.8440574
+      },
+      {
+        "lng": 5.6483545,
+        "lat": 52.8357622
+      },
+      {
+        "lng": 5.5920495,
+        "lat": 52.7701737
+      },
+      {
+        "lng": 5.5851831,
+        "lat": 52.6536979
+      },
+      {
+        "lng": 5.5741967,
+        "lat": 52.5961775
+      },
+      {
+        "lng": 5.4286279,
+        "lat": 52.5377462
+      },
+      {
+        "lng": 5.1127339,
+        "lat": 52.3880562
+      }
+    ]
+  },
+  {
     "title": "Skôn Orre Gat",
     "body": [
       "We gaan naar dit carnavalsdorp en daar naar de kerk."
@@ -1031,6 +1087,44 @@
     ]
   },
   {
+    "title": "Toren deel 2",
+    "body": [
+      "Deze lijkt om een toren die in een vorige vraag ook al was geweest, maar hij is niet dezelfde",
+      "/static/images/tt1.jpg",
+      "/static/images/tt2.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 139.7444415,
+        "lat": 35.658618
+      },
+      {
+        "lng": 139.7448278,
+        "lat": 35.6584001
+      },
+      {
+        "lng": 139.7454822,
+        "lat": 35.6579599
+      },
+      {
+        "lng": 139.7462815,
+        "lat": 35.6586267
+      },
+      {
+        "lng": 139.7456432,
+        "lat": 35.6590539
+      },
+      {
+        "lng": 139.7448546,
+        "lat": 35.6593677
+      },
+      {
+        "lng": 139.7444415,
+        "lat": 35.658618
+      }
+    ]
+  },
+  {
     "title": "Getal",
     "body": [
       "We gaan naar het grootste getal dat gemaakt is op de aarde."
@@ -1059,6 +1153,78 @@
     ]
   },
   {
+    "title": "Coronavariant",
+    "body": [
+      "Uit het alfabet van dit land zijn de coronavirus varianten naar genoemd."
+    ],
+    "answer": [
+      {
+        "lng": 20.0985576,
+        "lat": 39.6663729
+      },
+      {
+        "lng": 19.4501834,
+        "lat": 38.9691261
+      },
+      {
+        "lng": 21.3407045,
+        "lat": 36.4128282
+      },
+      {
+        "lng": 24.4949009,
+        "lat": 34.4882962
+      },
+      {
+        "lng": 26.934586,
+        "lat": 34.9579959
+      },
+      {
+        "lng": 28.4053926,
+        "lat": 36.2311489
+      },
+      {
+        "lng": 28.0444027,
+        "lat": 36.51221
+      },
+      {
+        "lng": 26.8690524,
+        "lat": 36.5478461
+      },
+      {
+        "lng": 25.9565113,
+        "lat": 39.6496141
+      },
+      {
+        "lng": 26.1982987,
+        "lat": 40.7576005
+      },
+      {
+        "lng": 26.626938,
+        "lat": 41.667064
+      },
+      {
+        "lng": 26.1982945,
+        "lat": 41.7491153
+      },
+      {
+        "lng": 25.7806462,
+        "lat": 41.3047928
+      },
+      {
+        "lng": 24.7145344,
+        "lat": 41.5026343
+      },
+      {
+        "lng": 21.0216671,
+        "lat": 40.9071653
+      },
+      {
+        "lng": 20.0985576,
+        "lat": 39.6663729
+      }
+    ]
+  },
+  {
     "title": "Opera",
     "body": [
       "We gaan naar dit iconische gebouw",
@@ -1066,24 +1232,198 @@
     ],
     "answer": [
       {
-        "lng": 6.0207493,
-        "lat": 50.7546312
+        "lng": 151.2141447,
+        "lat": -33.8575612
       },
       {
-        "lng": 6.020878,
-        "lat": 50.7546643
+        "lng": 151.2159257,
+        "lat": -33.8579533
       },
       {
-        "lng": 6.0208485,
-        "lat": 50.754699
+        "lng": 151.2163977,
+        "lat": -33.8561001
       },
       {
-        "lng": 6.0207184,
-        "lat": 50.7546634
+        "lng": 151.214606,
+        "lat": -33.8558595
       },
       {
-        "lng": 6.0207493,
-        "lat": 50.7546312
+        "lng": 151.2141447,
+        "lat": -33.8575612
+      }
+    ]
+  },
+  {
+    "title": "Nederland gemaakt door Nederlanders",
+    "body": [
+      "Een gezegde luidt: \"God heeft de wereld geschapen, maar de Nederlanders hebben Nederland geschapen\". Zo ook hebben we daarvoor een zee doen ophouden te bestaan.",
+      "We gaan naar de plek die het einde betekende voor de Zuiderzee"
+    ],
+    "answer": [
+      {
+        "lng": 5.037023,
+        "lat": 52.9418023
+      },
+      {
+        "lng": 5.0514425,
+        "lat": 52.9308355
+      },
+      {
+        "lng": 5.3034414,
+        "lat": 53.0628731
+      },
+      {
+        "lng": 5.3484167,
+        "lat": 53.0700936
+      },
+      {
+        "lng": 5.3889288,
+        "lat": 53.0917476
+      },
+      {
+        "lng": 5.3724493,
+        "lat": 53.0977264
+      },
+      {
+        "lng": 5.3405203,
+        "lat": 53.0793752
+      },
+      {
+        "lng": 5.2845587,
+        "lat": 53.0723626
+      },
+      {
+        "lng": 5.037023,
+        "lat": 52.9418023
+      }
+    ]
+  },
+  {
+    "title": "Wat, lopen?",
+    "body": [
+      "https://www.youtube.com/watch?v=c_AdOmHSw0M",
+      "Waar heeft hij gewandeld?"
+    ],
+    "answer": [
+      {
+        "lng": 6.1272419,
+        "lat": 53.3956749
+      },
+      {
+        "lng": 6.4348591,
+        "lat": 53.3969031
+      },
+      {
+        "lng": 6.4094532,
+        "lat": 53.5342477
+      },
+      {
+        "lng": 6.0620105,
+        "lat": 53.5269012
+      },
+      {
+        "lng": 6.1272419,
+        "lat": 53.3956749
+      }
+    ]
+  },
+  {
+    "title": "Oudste stad",
+    "body": [
+      "We gaan naar de oudste Romeinse stad van Nederland"
+    ],
+    "answer": [
+      {
+        "lng": 5.7872122,
+        "lat": 51.841319
+      },
+      {
+        "lng": 5.8054083,
+        "lat": 51.7912311
+      },
+      {
+        "lng": 5.8974188,
+        "lat": 51.8043952
+      },
+      {
+        "lng": 5.9283178,
+        "lat": 51.829651
+      },
+      {
+        "lng": 5.8771627,
+        "lat": 51.8584974
+      },
+      {
+        "lng": 5.7872122,
+        "lat": 51.841319
+      }
+    ]
+  },
+  {
+    "title": "Zeeland",
+    "body": [
+      "Welk land is door Zeeland nieuw gemaakt?"
+    ],
+    "answer": [
+      {
+        "lng": 165.8127607,
+        "lat": -45.9808092
+      },
+      {
+        "lng": 169.8996748,
+        "lat": -47.0991768
+      },
+      {
+        "lng": 179.6994794,
+        "lat": -38.0643886
+      },
+      {
+        "lng": 173.5031904,
+        "lat": -34.0516031
+      },
+      {
+        "lng": 171.6574873,
+        "lat": -34.1607632
+      },
+      {
+        "lng": 173.0197919,
+        "lat": -38.9584174
+      },
+      {
+        "lng": 165.8127607,
+        "lat": -45.9808092
+      }
+    ]
+  },
+  {
+    "title": "Minste inwoners",
+    "body": [
+      "We gaan naar het land waar de minste inwoners leven. Het zijn er maar liefst 50."
+    ],
+    "answer": [
+      {
+        "lng": -128.3498929,
+        "lat": -24.3319947
+      },
+      {
+        "lng": -128.3728955,
+        "lat": -24.3779719
+      },
+      {
+        "lng": -128.3416532,
+        "lat": -24.4342477
+      },
+      {
+        "lng": -128.2668088,
+        "lat": -24.4245575
+      },
+      {
+        "lng": -128.2942746,
+        "lat": -24.3251124
+      },
+      {
+        "lng": -128.3498929,
+        "lat": -24.3319947
       }
     ]
   }
