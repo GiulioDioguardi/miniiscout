@@ -312,7 +312,7 @@
   {
     "title": "Lego",
     "body": [
-      "Dit land is bekend van de legoblokjes, Hans Christian Andersen, een princess uit dat land doet belangrijke dingen voor de WAGGGS en er hebben daadwerkelijk mensen de echte iScout aan megedaan"
+      "Dit land is bekend van de legoblokjes, uit het land van Hans Christian Andersen."
     ],
     "answer": [
       {
@@ -391,66 +391,6 @@
       {
         "lng": 4.6298134,
         "lat": 51.9862536
-      }
-    ]
-  },
-  {
-    "title": "Mongool",
-    "body": [
-      "We zeggen wel eens tegen iemand die we niet slim vinden \"Mongool!\". Echter, er is een land die vol met Mongolen zit, maar de meeste van hen zijn wel slim."
-    ],
-    "answer": [
-      {
-        "lng": 87.7080816,
-        "lat": 49.2524595
-      },
-      {
-        "lng": 90.3887457,
-        "lat": 45.072433
-      },
-      {
-        "lng": 96.2334723,
-        "lat": 42.5681302
-      },
-      {
-        "lng": 105.1543707,
-        "lat": 41.1278613
-      },
-      {
-        "lng": 118.6455816,
-        "lat": 45.5668314
-      },
-      {
-        "lng": 120.5352301,
-        "lat": 47.0840367
-      },
-      {
-        "lng": 117.7666754,
-        "lat": 48.4135964
-      },
-      {
-        "lng": 115.4815191,
-        "lat": 50.3584978
-      },
-      {
-        "lng": 103.3086676,
-        "lat": 51.6307014
-      },
-      {
-        "lng": 98.5625738,
-        "lat": 52.1999298
-      },
-      {
-        "lng": 96.3213629,
-        "lat": 50.1899817
-      },
-      {
-        "lng": 92.3223394,
-        "lat": 51.1646008
-      },
-      {
-        "lng": 87.7080816,
-        "lat": 49.2524595
       }
     ]
   },
@@ -1147,6 +1087,44 @@
     ]
   },
   {
+    "title": "Toren deel 2",
+    "body": [
+      "Deze lijkt om een toren die in een vorige vraag ook al was geweest, maar hij is niet dezelfde",
+      "/static/images/tt1.jpg",
+      "/static/images/tt2.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 139.7444415,
+        "lat": 35.658618
+      },
+      {
+        "lng": 139.7448278,
+        "lat": 35.6584001
+      },
+      {
+        "lng": 139.7454822,
+        "lat": 35.6579599
+      },
+      {
+        "lng": 139.7462815,
+        "lat": 35.6586267
+      },
+      {
+        "lng": 139.7456432,
+        "lat": 35.6590539
+      },
+      {
+        "lng": 139.7448546,
+        "lat": 35.6593677
+      },
+      {
+        "lng": 139.7444415,
+        "lat": 35.658618
+      }
+    ]
+  },
+  {
     "title": "Getal",
     "body": [
       "We gaan naar het grootste getal dat gemaakt is op de aarde."
@@ -1254,24 +1232,24 @@
     ],
     "answer": [
       {
-        "lng": 6.0207493,
-        "lat": 50.7546312
+        "lng": 151.2141447,
+        "lat": -33.8575612
       },
       {
-        "lng": 6.020878,
-        "lat": 50.7546643
+        "lng": 151.2159257,
+        "lat": -33.8579533
       },
       {
-        "lng": 6.0208485,
-        "lat": 50.754699
+        "lng": 151.2163977,
+        "lat": -33.8561001
       },
       {
-        "lng": 6.0207184,
-        "lat": 50.7546634
+        "lng": 151.214606,
+        "lat": -33.8558595
       },
       {
-        "lng": 6.0207493,
-        "lat": 50.7546312
+        "lng": 151.2141447,
+        "lat": -33.8575612
       }
     ]
   },
