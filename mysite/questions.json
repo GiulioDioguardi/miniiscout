@@ -527,10 +527,40 @@
     ]
   },
   {
+    "title": "Ruimteschip",
+    "body": [
+      "Dit gebouw lijkt een beetje op een ruimteschip. Waar staat hij?",
+      "/static/ruimteschip.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 5.4454956,
+        "lat": 51.4439737
+      },
+      {
+        "lng": 5.4461286,
+        "lat": 51.4423754
+      },
+      {
+        "lng": 5.4490469,
+        "lat": 51.4427232
+      },
+      {
+        "lng": 5.4483173,
+        "lat": 51.4447427
+      },
+      {
+        "lng": 5.4454956,
+        "lat": 51.4439737
+      }
+    ]
+  },
+  {
     "title": "Precies in het midden",
     "body": [
-      "Hier zijn we wel eens geweest, namelijk een aantal jaar geleden met Frama Morgana. Kijk maar op de foto",
-      "/static/Middelpunt.jpg",
+      "Hier zijn we wel eens geweest, namelijk een aantal jaar geleden met Frama Morgana. Kijk maar op de foto's",
+      "/static/Middelpunt1.jpeg",
+      "/static/Middelpunt2.jpeg",
       "Hier gaan we nu weer even naartoe."
     ],
     "answer": [
@@ -561,6 +591,35 @@
       {
         "lng": 5.6462509,
         "lat": 52.1010564
+      }
+    ]
+  },
+  {
+    "title": "Hal",
+    "body": [
+      "We gaan  naar dit iconische gebouw",
+      "/static/mh.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 4.4859039,
+        "lat": 51.9203705
+      },
+      {
+        "lng": 4.4862901,
+        "lat": 51.9195169
+      },
+      {
+        "lng": 4.488157,
+        "lat": 51.9198146
+      },
+      {
+        "lng": 4.4876795,
+        "lat": 51.920741
+      },
+      {
+        "lng": 4.4859039,
+        "lat": 51.9203705
       }
     ]
   },
@@ -659,6 +718,47 @@
       {
         "lng": -77.0368523,
         "lat": 38.8979518
+      }
+    ]
+  },
+  {
+    "title": "Scheef",
+    "body": [
+      "We gaan naar dit iconische gebouw",
+      "/static/scheve_toren.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 10.3965007,
+        "lat": 43.7229115
+      },
+      {
+        "lng": 10.3966536,
+        "lat": 43.722863
+      },
+      {
+        "lng": 10.3968413,
+        "lat": 43.7229134
+      },
+      {
+        "lng": 10.3968252,
+        "lat": 43.7230782
+      },
+      {
+        "lng": 10.3966911,
+        "lat": 43.7231828
+      },
+      {
+        "lng": 10.3964658,
+        "lat": 43.7231247
+      },
+      {
+        "lng": 10.3963988,
+        "lat": 43.7229871
+      },
+      {
+        "lng": 10.3965007,
+        "lat": 43.7229115
       }
     ]
   },
@@ -791,6 +891,35 @@
     ]
   },
   {
+    "title": "Toren",
+    "body": [
+      "We gaan naar dit iconische gebouw",
+      "/static/toren.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.2933416,
+        "lat": 48.8582613
+      },
+      {
+        "lng": 2.2945325,
+        "lat": 48.8574389
+      },
+      {
+        "lng": 2.2957502,
+        "lat": 48.858226
+      },
+      {
+        "lng": 2.2945271,
+        "lat": 48.8590413
+      },
+      {
+        "lng": 2.2933416,
+        "lat": 48.8582613
+      }
+    ]
+  },
+  {
     "title": "Uitstel is (meestal) afstel",
     "body": [
       "Deze beroemde kathedraal in Spanje is nog steeds niet af"
@@ -843,6 +972,35 @@
       {
         "lng": 40.3571263,
         "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "Opera",
+    "body": [
+      "We gaan naar dit iconische gebouw",
+      "/static/opera.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
+      },
+      {
+        "lng": 6.020878,
+        "lat": 50.7546643
+      },
+      {
+        "lng": 6.0208485,
+        "lat": 50.754699
+      },
+      {
+        "lng": 6.0207184,
+        "lat": 50.7546634
+      },
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
       }
     ]
   }
