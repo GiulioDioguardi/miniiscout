@@ -483,6 +483,51 @@
     ]
   },
   {
+    "title": "Schilderij (deel 1)",
+    "body": [
+      "In welk museum hangt dit schilderij?",
+      "/static/schilderij1.jfif"
+    ],
+    "answer": [
+      {
+        "lng": 4.8836529,
+        "lat": 52.3598853
+      },
+      {
+        "lng": 4.8841035,
+        "lat": 52.359181
+      },
+      {
+        "lng": 4.886378,
+        "lat": 52.3588337
+      },
+      {
+        "lng": 4.886378,
+        "lat": 52.3597838
+      },
+      {
+        "lng": 4.8866569,
+        "lat": 52.3600983
+      },
+      {
+        "lng": 4.8850637,
+        "lat": 52.3609697
+      },
+      {
+        "lng": 4.8845273,
+        "lat": 52.3606552
+      },
+      {
+        "lng": 4.8833954,
+        "lat": 52.360344
+      },
+      {
+        "lng": 4.8836529,
+        "lat": 52.3598853
+      }
+    ]
+  },
+  {
     "title": "Vliegen",
     "body": [
       "Een tekst van een bekend liedje luidt: \"We moeten rennen, springen, vliegen, duiken, vallen, opstaan en weer doorgaan. Maar waar kan je hier in de buurt echt beginnen met vliegen?"
@@ -677,6 +722,44 @@
       {
         "lng": 5.0777556,
         "lat": 51.545899
+      }
+    ]
+  },
+  {
+    "title": "Schilderij (deel N)",
+    "body": [
+      "In welk museum hangt dit schilderij van een bekende generaal uit de 19e eeuw?",
+      "(Dus de eeuw van 1801 tot 1900)",
+      "/static/Napoleon.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.3097049,
+        "lat": 48.8541278
+      },
+      {
+        "lng": 2.3145436,
+        "lat": 48.8536972
+      },
+      {
+        "lng": 2.315123,
+        "lat": 48.8580032
+      },
+      {
+        "lng": 2.3134171,
+        "lat": 48.8583491
+      },
+      {
+        "lng": 2.312076,
+        "lat": 48.8584409
+      },
+      {
+        "lng": 2.3100912,
+        "lat": 48.8580738
+      },
+      {
+        "lng": 2.3097049,
+        "lat": 48.8541278
       }
     ]
   },
