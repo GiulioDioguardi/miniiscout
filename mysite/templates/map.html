@@ -32,7 +32,11 @@ const triangleCoords = [
     <div id="map"></div>
     <h1>{{ question.title }}</h1>
     {% for line in question.body %}
+    {% if '/static/' in line %}
+    <p><a href="{{ line }}"><img src="{{ line }}" style="width:20%"></a></p>
+    {% else %}
     <p>{{ line }}</p>
+    {% endif %}
     {% endfor %}
     <button type="button" onclick="checkPosition({{ number }})">Controleer antwoord</button>
     <p><a href="/list">Ga terug naar de vragenlijst</a></p>

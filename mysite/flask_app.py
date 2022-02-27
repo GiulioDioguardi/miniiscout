@@ -6,7 +6,7 @@ from flask import Flask, render_template, abort, request
 app = Flask(__name__)
 
 def read_json_file(filename):
-    with open(filename) as _file:
+    with open(filename, "rb") as _file:
         return json.load(_file)
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -30,6 +30,8 @@ def index():
 
 @app.route('/list')
 def question_list():
+    for item in QUESTIONS:
+        print(item['title'])
     return render_template('list.html', questions=QUESTIONS, answered=get_answered_questions())
 
 @app.route('/map/<questionnumber>')

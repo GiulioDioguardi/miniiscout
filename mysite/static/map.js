@@ -15,6 +15,18 @@ function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 51.50461728424621, lng: 5.371673673893977 },
     zoom: 2,
+    gestureHandling: 'greedy',
+    styles: [
+      {
+        featureType: "poi",
+        stylers: [{ visibility: "off" }],
+      },
+      {
+        featureType: "transit",
+        elementType: "labels.icon",
+        stylers: [{ visibility: "off" }],
+      },
+    ]
   });
 
   polygon = initPolygon(map)

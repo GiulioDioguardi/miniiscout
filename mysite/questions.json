@@ -29,6 +29,66 @@
     ]
   },
   {
+    "title": "Dicht bij mijn huis show",
+    "body": [
+      "Deze stafleden wonen het dichtstbij Scouting Frama"
+    ],
+    "answer": [
+      {
+        "lng": 5.3986156,
+        "lat": 51.497373
+      },
+      {
+        "lng": 5.3988074,
+        "lat": 51.4973772
+      },
+      {
+        "lng": 5.3988677,
+        "lat": 51.4974181
+      },
+      {
+        "lng": 5.3989281,
+        "lat": 51.497454
+      },
+      {
+        "lng": 5.3989616,
+        "lat": 51.4974148
+      },
+      {
+        "lng": 5.3993143,
+        "lat": 51.4975191
+      },
+      {
+        "lng": 5.3992727,
+        "lat": 51.4975742
+      },
+      {
+        "lng": 5.3991909,
+        "lat": 51.497545
+      },
+      {
+        "lng": 5.3989066,
+        "lat": 51.4974582
+      },
+      {
+        "lng": 5.398849,
+        "lat": 51.4974214
+      },
+      {
+        "lng": 5.3988248,
+        "lat": 51.4974398
+      },
+      {
+        "lng": 5.3986102,
+        "lat": 51.4974331
+      },
+      {
+        "lng": 5.3986156,
+        "lat": 51.497373
+      }
+    ]
+  },
+  {
     "title": "Zweed/Zweet",
     "body": [
       "Zweed of zweet, als je het zo uitspreekt, dan kun je niet direct verstaan wat je bedoelt. Het wordt al helemaal lastig als ze allebei in een zin voorkomen.",
@@ -94,6 +154,88 @@
     ]
   },
   {
+    "title": "Westelijke punten",
+    "body": [
+      "Dit is een doordenkertje, maar ik denk dat je daarvoor wel slim genoeg bent.",
+      "We zoeken namelijk het meest westelijke punt van het Koninkrijk der Nederlanden."
+    ],
+    "answer": [
+      {
+        "lng": -70.0619389,
+        "lat": 12.5447815
+      },
+      {
+        "lng": -70.0643851,
+        "lat": 12.5431897
+      },
+      {
+        "lng": -70.0641276,
+        "lat": 12.5389377
+      },
+      {
+        "lng": -70.0584628,
+        "lat": 12.5355654
+      },
+      {
+        "lng": -70.0571968,
+        "lat": 12.5356701
+      },
+      {
+        "lng": -70.0602652,
+        "lat": 12.5448025
+      },
+      {
+        "lng": -70.0619389,
+        "lat": 12.5447815
+      }
+    ]
+  },
+  {
+    "title": "Help! Een spook!",
+    "body": [
+      "Je hebt verschillende soorten spoken. Enge spoken, lieve spoken en zelfs domme spoken",
+      "Maar er is één speciale soort spook: Gootspoken. Waar wonen ze?"
+    ],
+    "answer": [
+      {
+        "lng": 5.2431313,
+        "lat": 51.8136321
+      },
+      {
+        "lng": 5.2420585,
+        "lat": 51.8114565
+      },
+      {
+        "lng": 5.2440755,
+        "lat": 51.8097849
+      },
+      {
+        "lng": 5.24738,
+        "lat": 51.8090685
+      },
+      {
+        "lng": 5.2549331,
+        "lat": 51.8101829
+      },
+      {
+        "lng": 5.2578513,
+        "lat": 51.8128097
+      },
+      {
+        "lng": 5.2550618,
+        "lat": 51.8151974
+      },
+      {
+        "lng": 5.2493112,
+        "lat": 51.8149321
+      },
+      {
+        "lng": 5.2431313,
+        "lat": 51.8136321
+      }
+    ]
+  },
+  {
     "title": "Minecraft HQ",
     "body": [
       "Minecraft is een heel populair spel. Misschien speel jij het ook wel. Net als deze website moet Minecraft ook ergens gemaakt worden. Daarvoor heb je een speciale plek nodig.",
@@ -139,6 +281,35 @@
     ]
   },
   {
+    "title": "Hoogtepunt",
+    "body": [
+      "Je kent het gezegde wel: Je moet stoppen op je hoogtepunt. Maar we zoeken een ander hoogtepunt, namelijk dat van Nederland",
+      "Opmerking, deze keer bedoelen we Europees Nederland"
+    ],
+    "answer": [
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
+      },
+      {
+        "lng": 6.020878,
+        "lat": 50.7546643
+      },
+      {
+        "lng": 6.0208485,
+        "lat": 50.754699
+      },
+      {
+        "lng": 6.0207184,
+        "lat": 50.7546634
+      },
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
+      }
+    ]
+  },
+  {
     "title": "Lego",
     "body": [
       "Dit land is bekend van de legoblokjes, Hans Christian Andersen, een princess uit dat land doet belangrijke dingen voor de WAGGGS en er hebben daadwerkelijk mensen de echte iScout aan megedaan"
@@ -171,6 +342,55 @@
       {
         "lng": 9.1209848,
         "lat": 55.7380247
+      }
+    ]
+  },
+  {
+    "title": "Drie keer is scheepsrecht",
+    "body": [
+      "Een landsgrens. Daar ga je het ene land uit en het andere weer in. Maar, net als een kruising, komen er soms meerdere landen bij elkaar.",
+      "We zoeken bij deze vraag de dichtstbijzijnde locatie vanaf hier waar drie landen bij elkaar komen"
+    ],
+    "answer": [
+      {
+        "lng": 6.0208264,
+        "lat": 50.7543089
+      },
+      {
+        "lng": 6.0213118,
+        "lat": 50.7543191
+      },
+      {
+        "lng": 6.0209202,
+        "lat": 50.7546143
+      },
+      {
+        "lng": 6.0208264,
+        "lat": 50.7543089
+      }
+    ]
+  },
+  {
+    "title": "Gezakt!",
+    "body": [
+      "In het leven hebben we te maken met hoogtepunten en dieptepunten. Zo heeft Nederland die ook. We hadden bij een andere vraag al een hoogtepunt, nu gaan we naar het dieptepunt."
+    ],
+    "answer": [
+      {
+        "lng": 4.6298134,
+        "lat": 51.9862536
+      },
+      {
+        "lng": 4.630779,
+        "lat": 51.9861842
+      },
+      {
+        "lng": 4.6303927,
+        "lat": 51.9867359
+      },
+      {
+        "lng": 4.6298134,
+        "lat": 51.9862536
       }
     ]
   },
@@ -235,6 +455,79 @@
     ]
   },
   {
+    "title": "Rivaal",
+    "body": [
+      "Wij zijn een scouting in Best. Maar, er is er nog een."
+    ],
+    "answer": [
+      {
+        "lng": 5.4112226,
+        "lat": 51.5102282
+      },
+      {
+        "lng": 5.4117268,
+        "lat": 51.5099411
+      },
+      {
+        "lng": 5.4123572,
+        "lat": 51.5103685
+      },
+      {
+        "lng": 5.4118288,
+        "lat": 51.5106289
+      },
+      {
+        "lng": 5.4112226,
+        "lat": 51.5102282
+      }
+    ]
+  },
+  {
+    "title": "Schilderij (deel 1)",
+    "body": [
+      "In welk museum hangt dit schilderij?",
+      "/static/schilderij1.jfif"
+    ],
+    "answer": [
+      {
+        "lng": 4.8836529,
+        "lat": 52.3598853
+      },
+      {
+        "lng": 4.8841035,
+        "lat": 52.359181
+      },
+      {
+        "lng": 4.886378,
+        "lat": 52.3588337
+      },
+      {
+        "lng": 4.886378,
+        "lat": 52.3597838
+      },
+      {
+        "lng": 4.8866569,
+        "lat": 52.3600983
+      },
+      {
+        "lng": 4.8850637,
+        "lat": 52.3609697
+      },
+      {
+        "lng": 4.8845273,
+        "lat": 52.3606552
+      },
+      {
+        "lng": 4.8833954,
+        "lat": 52.360344
+      },
+      {
+        "lng": 4.8836529,
+        "lat": 52.3598853
+      }
+    ]
+  },
+  {
     "title": "Vliegen",
     "body": [
       "Een tekst van een bekend liedje luidt: \"We moeten rennen, springen, vliegen, duiken, vallen, opstaan en weer doorgaan. Maar waar kan je hier in de buurt echt beginnen met vliegen?"
@@ -275,6 +568,198 @@
       {
         "lng": 5.3561062,
         "lat": 51.4392144
+      }
+    ]
+  },
+  {
+    "title": "Ruimteschip",
+    "body": [
+      "Dit gebouw lijkt een beetje op een ruimteschip. Waar staat hij?",
+      "/static/ruimteschip.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 5.4454956,
+        "lat": 51.4439737
+      },
+      {
+        "lng": 5.4461286,
+        "lat": 51.4423754
+      },
+      {
+        "lng": 5.4490469,
+        "lat": 51.4427232
+      },
+      {
+        "lng": 5.4483173,
+        "lat": 51.4447427
+      },
+      {
+        "lng": 5.4454956,
+        "lat": 51.4439737
+      }
+    ]
+  },
+  {
+    "title": "Precies in het midden",
+    "body": [
+      "Hier zijn we wel eens geweest, namelijk een aantal jaar geleden met Frama Morgana. Kijk maar op de foto's",
+      "/static/Middelpunt1.jpeg",
+      "/static/Middelpunt2.jpeg",
+      "Hier gaan we nu weer even naartoe."
+    ],
+    "answer": [
+      {
+        "lng": 5.6462509,
+        "lat": 52.1010564
+      },
+      {
+        "lng": 5.6460604,
+        "lat": 52.1009509
+      },
+      {
+        "lng": 5.6461409,
+        "lat": 52.1008323
+      },
+      {
+        "lng": 5.6463662,
+        "lat": 52.1007928
+      },
+      {
+        "lng": 5.6465137,
+        "lat": 52.1009015
+      },
+      {
+        "lng": 5.646444,
+        "lat": 52.1010201
+      },
+      {
+        "lng": 5.6462509,
+        "lat": 52.1010564
+      }
+    ]
+  },
+  {
+    "title": "Hal",
+    "body": [
+      "We gaan  naar dit iconische gebouw",
+      "/static/mh.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 4.4859039,
+        "lat": 51.9203705
+      },
+      {
+        "lng": 4.4862901,
+        "lat": 51.9195169
+      },
+      {
+        "lng": 4.488157,
+        "lat": 51.9198146
+      },
+      {
+        "lng": 4.4876795,
+        "lat": 51.920741
+      },
+      {
+        "lng": 4.4859039,
+        "lat": 51.9203705
+      }
+    ]
+  },
+  {
+    "title": "Het spoor bijster",
+    "body": [
+      "We gaan naar het Best(s)e treinstation"
+    ],
+    "answer": [
+      {
+        "lng": 5.3878112,
+        "lat": 51.5108025
+      },
+      {
+        "lng": 5.3900213,
+        "lat": 51.5082016
+      },
+      {
+        "lng": 5.3911907,
+        "lat": 51.5086623
+      },
+      {
+        "lng": 5.3888304,
+        "lat": 51.5111463
+      },
+      {
+        "lng": 5.3878112,
+        "lat": 51.5108025
+      }
+    ]
+  },
+  {
+    "title": "Gearresteerd",
+    "body": [
+      "Op deze plek zijn de boeven op de foto gearresteerd",
+      "/static/Arrestatie.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 5.0777556,
+        "lat": 51.545899
+      },
+      {
+        "lng": 5.0777288,
+        "lat": 51.5454086
+      },
+      {
+        "lng": 5.0787668,
+        "lat": 51.5453785
+      },
+      {
+        "lng": 5.0787855,
+        "lat": 51.5458656
+      },
+      {
+        "lng": 5.0777556,
+        "lat": 51.545899
+      }
+    ]
+  },
+  {
+    "title": "Schilderij (deel N)",
+    "body": [
+      "In welk museum hangt dit schilderij van een bekende generaal uit de 19e eeuw?",
+      "(Dus de eeuw van 1801 tot 1900)",
+      "/static/Napoleon.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.3097049,
+        "lat": 48.8541278
+      },
+      {
+        "lng": 2.3145436,
+        "lat": 48.8536972
+      },
+      {
+        "lng": 2.315123,
+        "lat": 48.8580032
+      },
+      {
+        "lng": 2.3134171,
+        "lat": 48.8583491
+      },
+      {
+        "lng": 2.312076,
+        "lat": 48.8584409
+      },
+      {
+        "lng": 2.3100912,
+        "lat": 48.8580738
+      },
+      {
+        "lng": 2.3097049,
+        "lat": 48.8541278
       }
     ]
   },
@@ -320,30 +805,135 @@
     ]
   },
   {
-    "title": "Getal",
+    "title": "Scheef",
     "body": [
-      "We gaan naar het grootste getal dat gemaakt is op de aarde."
+      "We gaan naar dit iconische gebouw",
+      "/static/scheve_toren.jpg"
     ],
     "answer": [
       {
-        "lng": 40.3571263,
-        "lat": 51.1934581
+        "lng": 10.3965007,
+        "lat": 43.7229115
       },
       {
-        "lng": 40.3543582,
-        "lat": 51.191636
+        "lng": 10.3966536,
+        "lat": 43.722863
       },
       {
-        "lng": 40.3575769,
-        "lat": 51.1896591
+        "lng": 10.3968413,
+        "lat": 43.7229134
       },
       {
-        "lng": 40.3603128,
-        "lat": 51.1915082
+        "lng": 10.3968252,
+        "lat": 43.7230782
       },
       {
-        "lng": 40.3571263,
-        "lat": 51.1934581
+        "lng": 10.3966911,
+        "lat": 43.7231828
+      },
+      {
+        "lng": 10.3964658,
+        "lat": 43.7231247
+      },
+      {
+        "lng": 10.3963988,
+        "lat": 43.7229871
+      },
+      {
+        "lng": 10.3965007,
+        "lat": 43.7229115
+      }
+    ]
+  },
+  {
+    "title": "Klompengat",
+    "body": [
+      "Aan deze fabriek (nu een museum) heeft Best zijn carnavalsnaam te danken. "
+    ],
+    "answer": [
+      {
+        "lng": 5.4026511,
+        "lat": 51.5223189
+      },
+      {
+        "lng": 5.4027396,
+        "lat": 51.5225493
+      },
+      {
+        "lng": 5.4022971,
+        "lat": 51.522631
+      },
+      {
+        "lng": 5.4021415,
+        "lat": 51.5224441
+      },
+      {
+        "lng": 5.4026511,
+        "lat": 51.5223189
+      }
+    ]
+  },
+  {
+    "title": "Welkom in de Feesttent",
+    "body": [
+      "Hier heeft in Klompengat een grote feesttent gestaan"
+    ],
+    "answer": [
+      {
+        "lng": 5.3944839,
+        "lat": 51.5116158
+      },
+      {
+        "lng": 5.3947897,
+        "lat": 51.5114589
+      },
+      {
+        "lng": 5.3951008,
+        "lat": 51.5116575
+      },
+      {
+        "lng": 5.3947709,
+        "lat": 51.5118261
+      },
+      {
+        "lng": 5.3944839,
+        "lat": 51.5116158
+      }
+    ]
+  },
+  {
+    "title": "Skôn Orre Gat",
+    "body": [
+      "We gaan naar dit carnavalsdorp en daar naar de kerk."
+    ],
+    "answer": [
+      {
+        "lng": 5.3080013,
+        "lat": 51.5039883
+      },
+      {
+        "lng": 5.3069338,
+        "lat": 51.5037312
+      },
+      {
+        "lng": 5.3068426,
+        "lat": 51.5035075
+      },
+      {
+        "lng": 5.3071645,
+        "lat": 51.5033906
+      },
+      {
+        "lng": 5.3082642,
+        "lat": 51.5036677
+      },
+      {
+        "lng": 5.3083393,
+        "lat": 51.5038814
+      },
+      {
+        "lng": 5.3080013,
+        "lat": 51.5039883
       }
     ]
   },
@@ -380,6 +970,120 @@
       {
         "lng": 51.3332832,
         "lat": 25.2511292
+      }
+    ]
+  },
+  {
+    "title": "Toren",
+    "body": [
+      "We gaan naar dit iconische gebouw",
+      "/static/toren.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.2933416,
+        "lat": 48.8582613
+      },
+      {
+        "lng": 2.2945325,
+        "lat": 48.8574389
+      },
+      {
+        "lng": 2.2957502,
+        "lat": 48.858226
+      },
+      {
+        "lng": 2.2945271,
+        "lat": 48.8590413
+      },
+      {
+        "lng": 2.2933416,
+        "lat": 48.8582613
+      }
+    ]
+  },
+  {
+    "title": "Uitstel is (meestal) afstel",
+    "body": [
+      "Deze beroemde kathedraal in Spanje is nog steeds niet af"
+    ],
+    "answer": [
+      {
+        "lng": 2.1744552,
+        "lat": 41.4043881
+      },
+      {
+        "lng": 2.1732052,
+        "lat": 41.4035029
+      },
+      {
+        "lng": 2.1743318,
+        "lat": 41.402682
+      },
+      {
+        "lng": 2.1755602,
+        "lat": 41.4036155
+      },
+      {
+        "lng": 2.1744552,
+        "lat": 41.4043881
+      }
+    ]
+  },
+  {
+    "title": "Getal",
+    "body": [
+      "We gaan naar het grootste getal dat gemaakt is op de aarde."
+    ],
+    "answer": [
+      {
+        "lng": 40.3571263,
+        "lat": 51.1934581
+      },
+      {
+        "lng": 40.3543582,
+        "lat": 51.191636
+      },
+      {
+        "lng": 40.3575769,
+        "lat": 51.1896591
+      },
+      {
+        "lng": 40.3603128,
+        "lat": 51.1915082
+      },
+      {
+        "lng": 40.3571263,
+        "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "Opera",
+    "body": [
+      "We gaan naar dit iconische gebouw",
+      "/static/opera.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
+      },
+      {
+        "lng": 6.020878,
+        "lat": 50.7546643
+      },
+      {
+        "lng": 6.0208485,
+        "lat": 50.754699
+      },
+      {
+        "lng": 6.0207184,
+        "lat": 50.7546634
+      },
+      {
+        "lng": 6.0207493,
+        "lat": 50.7546312
       }
     ]
   }
