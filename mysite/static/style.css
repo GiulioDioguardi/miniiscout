@@ -7,11 +7,20 @@ a:link, a:visited {
 }
 
 img {
+  max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+.question-image {
+  width: 30%;
+}
 
+@media (max-width: 600px) {
+  .question-image {
+    width: 100%;
+  }
+}
 .center {
   text-align: center;
 }
