@@ -89,6 +89,55 @@
     ]
   },
   {
+    "title": "Pretpark",
+    "body": [
+      "Soms wil je even lol hebben in een pretpark. We gaan naar deze op de foto",
+      "/static/images/dlp.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.777832,
+        "lat": 48.8799472
+      },
+      {
+        "lng": 2.7662449,
+        "lat": 48.8739636
+      },
+      {
+        "lng": 2.7615242,
+        "lat": 48.866963
+      },
+      {
+        "lng": 2.7671032,
+        "lat": 48.8564038
+      },
+      {
+        "lng": 2.7813511,
+        "lat": 48.8501915
+      },
+      {
+        "lng": 2.795599,
+        "lat": 48.8508127
+      },
+      {
+        "lng": 2.8095894,
+        "lat": 48.8583238
+      },
+      {
+        "lng": 2.8099327,
+        "lat": 48.8693343
+      },
+      {
+        "lng": 2.7968865,
+        "lat": 48.8797778
+      },
+      {
+        "lng": 2.777832,
+        "lat": 48.8799472
+      }
+    ]
+  },
+  {
     "title": "Zweed/Zweet",
     "body": [
       "Zweed of zweet, als je het zo uitspreekt, dan kun je niet direct verstaan wat je bedoelt. Het wordt al helemaal lastig als ze allebei in een zin voorkomen.",
@@ -468,6 +517,51 @@
     ]
   },
   {
+    "title": "Formule 1",
+    "body": [
+      "Je kan racen in verschillende voertuigen. Fietsen, karts, auto's en bovenal raceauto's.",
+      "Waar is de bekendste plek van Nederland aan zee waar ze racen met raceauto's?"
+    ],
+    "answer": [
+      {
+        "lng": 4.5380088,
+        "lat": 52.3845962
+      },
+      {
+        "lng": 4.541442,
+        "lat": 52.3837056
+      },
+      {
+        "lng": 4.5517846,
+        "lat": 52.3848712
+      },
+      {
+        "lng": 4.5548101,
+        "lat": 52.3880929
+      },
+      {
+        "lng": 4.5527502,
+        "lat": 52.389612
+      },
+      {
+        "lng": 4.5449396,
+        "lat": 52.3924143
+      },
+      {
+        "lng": 4.5412918,
+        "lat": 52.3931476
+      },
+      {
+        "lng": 4.5369144,
+        "lat": 52.384976
+      },
+      {
+        "lng": 4.5380088,
+        "lat": 52.3845962
+      }
+    ]
+  },
+  {
     "title": "Vliegen",
     "body": [
       "Een tekst van een bekend liedje luidt: \"We moeten rennen, springen, vliegen, duiken, vallen, opstaan en weer doorgaan. Maar waar kan je hier in de buurt echt beginnen met vliegen?"
@@ -704,6 +798,66 @@
     ]
   },
   {
+    "title": "Max Verstappen",
+    "body": [
+      "Op dit circuit werd Max Verstappen in 2021 de eerste wereldkampioen Formule 1"
+    ],
+    "answer": [
+      {
+        "lng": 54.609693,
+        "lat": 24.4617307
+      },
+      {
+        "lng": 54.6114526,
+        "lat": 24.4646214
+      },
+      {
+        "lng": 54.6090493,
+        "lat": 24.4722773
+      },
+      {
+        "lng": 54.6067748,
+        "lat": 24.4789955
+      },
+      {
+        "lng": 54.6081052,
+        "lat": 24.4819638
+      },
+      {
+        "lng": 54.6133838,
+        "lat": 24.4832917
+      },
+      {
+        "lng": 54.6113667,
+        "lat": 24.4854398
+      },
+      {
+        "lng": 54.6051011,
+        "lat": 24.487705
+      },
+      {
+        "lng": 54.6033416,
+        "lat": 24.4870802
+      },
+      {
+        "lng": 54.6036849,
+        "lat": 24.484854
+      },
+      {
+        "lng": 54.6038566,
+        "lat": 24.4802062
+      },
+      {
+        "lng": 54.5995221,
+        "lat": 24.4674338
+      },
+      {
+        "lng": 54.609693,
+        "lat": 24.4617307
+      }
+    ]
+  },
+  {
     "title": "Huis",
     "body": [
       "Op deze plek aan de andere kant van de oceaan staat al heel lang een huis die wel heel erg wit is.",
@@ -741,6 +895,39 @@
       {
         "lng": -77.0368523,
         "lat": 38.8979518
+      }
+    ]
+  },
+  {
+    "title": "Oog van de stad",
+    "body": [
+      "Raadsel: Ik ben een bekend oog. Ik sta in een Europese hoofdstad. Aan de andere kant van het water kan ik zien hoe laat het is. Mijn passagiers zien dat ook",
+      "Wat ben ik en waar sta ik?"
+    ],
+    "answer": [
+      {
+        "lng": -0.1206628,
+        "lat": 51.5030201
+      },
+      {
+        "lng": -0.1195362,
+        "lat": 51.5027196
+      },
+      {
+        "lng": -0.1190588,
+        "lat": 51.5041087
+      },
+      {
+        "lng": -0.1199708,
+        "lat": 51.5043024
+      },
+      {
+        "lng": -0.1207486,
+        "lat": 51.503875
+      },
+      {
+        "lng": -0.1206628,
+        "lat": 51.5030201
       }
     ]
   },
@@ -1149,6 +1336,38 @@
       {
         "lng": 40.3571263,
         "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "Olympische schaatsers",
+    "body": [
+      "Hier worden onze olympische schaatsers getraind en zijn er geregeld Nederlandse wedstrijden"
+    ],
+    "answer": [
+      {
+        "lng": 5.9398937,
+        "lat": 52.9392942
+      },
+      {
+        "lng": 5.9421575,
+        "lat": 52.9372315
+      },
+      {
+        "lng": 5.9451294,
+        "lat": 52.9384471
+      },
+      {
+        "lng": 5.9424794,
+        "lat": 52.9407102
+      },
+      {
+        "lng": 5.9395826,
+        "lat": 52.9396433
+      },
+      {
+        "lng": 5.9398937,
+        "lat": 52.9392942
       }
     ]
   },
