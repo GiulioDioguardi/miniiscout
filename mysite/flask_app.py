@@ -33,7 +33,7 @@ def map_page(questionhash):
     for i, q in enumerate(QUESTIONS):
         if q['hashed_title'] == questionhash:
             question = q
-            questionnumber = i
+            questionnumber = i + 1
             break
     else:
         abort(404)
