@@ -4,11 +4,10 @@
 <img src="/static/images/miniiScout_logo_blackOnTransparant.png">
 <h1>Vragenlijst</h1>
 <p>Aantal goed beantwoorde vragen: <b>{{ answered|length }}</b></p>
-<script>console.log({{ answered }})</script>
 <p><a href="/">Hoofdpagina</a></p>
 <table>
     {% for q in questions %}
-    <tr><td>{{ loop.index }}.</td><td><a href="{{ url_for('map_page', questionnumber=loop.index) }}">{{q.title}}</a></td><td>{% if loop.index in answered %}<img src="/static/images/checked.png" height="16" width="16">{% endif %}</td></tr>
+    <tr><td>{{ loop.index }}.</td><td><a href="{{ url_for('map_page', questionnumber=loop.index) }}">{{q.title}}</a></td><td>{% if md5(q.encoded_title) in answered %}<img src="/static/images/checked.png" height="16" width="16">{% endif %}</td></tr>
     {% endfor %}
 </table>
 {% endblock %}
