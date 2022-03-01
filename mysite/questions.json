@@ -240,6 +240,79 @@
     ]
   },
   {
+    "title": "Op een onbewoond eiland",
+    "body": [
+      "Over de hele wereld zijn duizenden eilanden te vinden, maar bij welk land horen nou de meeste eilanden?",
+      "We gaan naar het grootste eiland van dit land."
+    ],
+    "answer": [
+      {
+        "lng": 18.1362112,
+        "lat": 56.8830689
+      },
+      {
+        "lng": 18.2680472,
+        "lat": 56.9010717
+      },
+      {
+        "lng": 18.4081229,
+        "lat": 56.9864665
+      },
+      {
+        "lng": 18.5948904,
+        "lat": 57.13581
+      },
+      {
+        "lng": 18.8338431,
+        "lat": 57.2934589
+      },
+      {
+        "lng": 19.0261038,
+        "lat": 57.4149521
+      },
+      {
+        "lng": 19.0453299,
+        "lat": 57.4725945
+      },
+      {
+        "lng": 18.8860281,
+        "lat": 57.479978
+      },
+      {
+        "lng": 18.8887747,
+        "lat": 57.6199808
+      },
+      {
+        "lng": 19.4683035,
+        "lat": 57.9421367
+      },
+      {
+        "lng": 19.3639334,
+        "lat": 58.0643847
+      },
+      {
+        "lng": 18.6168631,
+        "lat": 57.9319306
+      },
+      {
+        "lng": 18.0812796,
+        "lat": 57.5743548
+      },
+      {
+        "lng": 17.894512,
+        "lat": 57.3008785
+      },
+      {
+        "lng": 17.9961356,
+        "lat": 56.9145681
+      },
+      {
+        "lng": 18.1362112,
+        "lat": 56.8830689
+      }
+    ]
+  },
+  {
     "title": "Help! Een spook!",
     "body": [
       "Je hebt verschillende soorten spoken. Enge spoken, lieve spoken en zelfs domme spoken",
@@ -699,6 +772,67 @@
       {
         "lng": 4.4859039,
         "lat": 51.9203705
+      }
+    ]
+  },
+  {
+    "title": "Niet zo druk",
+    "body": [
+      "Door corona hebben veel attractieparken de deuren voor een deel van het jaar moeten sluiten, maar in Europa moet er toch één het meest drukbezocht zijn van 2020",
+      "We gaan naar de ingang van dit park."
+    ],
+    "answer": [
+      {
+        "lng": 5.0433024,
+        "lat": 51.649698
+      },
+      {
+        "lng": 5.0432058,
+        "lat": 51.6496414
+      },
+      {
+        "lng": 5.043179,
+        "lat": 51.6494816
+      },
+      {
+        "lng": 5.0433239,
+        "lat": 51.6493917
+      },
+      {
+        "lng": 5.0435384,
+        "lat": 51.6493585
+      },
+      {
+        "lng": 5.0435492,
+        "lat": 51.6491022
+      },
+      {
+        "lng": 5.0438388,
+        "lat": 51.6490256
+      },
+      {
+        "lng": 5.0440588,
+        "lat": 51.6491621
+      },
+      {
+        "lng": 5.0439247,
+        "lat": 51.6493984
+      },
+      {
+        "lng": 5.0441983,
+        "lat": 51.6495349
+      },
+      {
+        "lng": 5.0441553,
+        "lat": 51.6497479
+      },
+      {
+        "lng": 5.0437262,
+        "lat": 51.6497912
+      },
+      {
+        "lng": 5.0433024,
+        "lat": 51.649698
       }
     ]
   },
@@ -1246,6 +1380,52 @@
     ]
   },
   {
+    "title": "Wow! Wat veel!",
+    "body": [
+      "Volgens het woordenboek is er één taal die de allermeeste worden heeft. Deze taal wordt ook over heel de wereld gesproken.",
+      "Vanaf Frankrijk kun je ongeveer 32 kilometer zwemmen om naar het land te komen waar deze taal is ontstaan.",
+      "We zijn op zoek naar het huis van de minister-president van dat land."
+    ],
+    "answer": [
+      {
+        "lng": -0.1282143,
+        "lat": 51.5033231
+      },
+      {
+        "lng": -0.1279903,
+        "lat": 51.5033248
+      },
+      {
+        "lng": -0.1279903,
+        "lat": 51.503359
+      },
+      {
+        "lng": -0.1273077,
+        "lat": 51.5033507
+      },
+      {
+        "lng": -0.1273037,
+        "lat": 51.5035953
+      },
+      {
+        "lng": -0.1274297,
+        "lat": 51.5035953
+      },
+      {
+        "lng": -0.1274485,
+        "lat": 51.5034892
+      },
+      {
+        "lng": -0.1282116,
+        "lat": 51.5034976
+      },
+      {
+        "lng": -0.1282143,
+        "lat": 51.5033231
+      }
+    ]
+  },
+  {
     "title": "Uitstel is (meestal) afstel",
     "body": [
       "Deze beroemde kathedraal in Spanje is nog steeds niet af"
@@ -1336,6 +1516,43 @@
       {
         "lng": 40.3571263,
         "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "Die van die ijsberg",
+    "body": [
+      "Bijna iedereen op de wereld kent het verhaal van die grote boot die tegen een ijsberg botste en daardoor zonk. Maar waar werd dit schip eigenlijk gebouwd?",
+      "We gaan naar het gebouw wat hier is geplaatst als monument en museum."
+    ],
+    "answer": [
+      {
+        "lng": -5.9110481,
+        "lat": 54.6079405
+      },
+      {
+        "lng": -5.9097713,
+        "lat": 54.6076577
+      },
+      {
+        "lng": -5.9090418,
+        "lat": 54.6072911
+      },
+      {
+        "lng": -5.9077382,
+        "lat": 54.6081176
+      },
+      {
+        "lng": -5.9083498,
+        "lat": 54.608422
+      },
+      {
+        "lng": -5.9105545,
+        "lat": 54.6087855
+      },
+      {
+        "lng": -5.9110481,
+        "lat": 54.6079405
       }
     ]
   },
