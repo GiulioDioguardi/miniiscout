@@ -12,11 +12,7 @@ def get_answered_questions():
     for cookie in request.cookies:
         if "FQzEhblF99" == request.cookies[cookie]:
             answered.append(cookie)
-    print(answered)
     return answered
-
-def md5(s):
-    return hashlib.md5(s).hexdigest()
 
 @app.context_processor
 def inject_debug():
@@ -30,12 +26,20 @@ def index():
 def question_list():
     answered = get_answered_questions()
     app.logger.info(answered)
-    return render_template('list.html', md5=md5, questions=QUESTIONS, answered=answered)
+    return render_template('list.html', questions=QUESTIONS, answered=answered)
 
-@app.route('/map/<questionnumber>')
-def map_page(questionnumber):
+@app.route('/map/<questionhash>')
+def map_page(questionhash):
+    for i, q in enumerate(QUESTIONS):
+        if q['hashed_title'] == questionhash:
+            question = q
+            questionnumber = i
+            break
+    else:
+        abort(404)
+
     try:
-        return render_template('map.html', question=QUESTIONS[int(questionnumber) - 1], number=questionnumber)
+        return render_template('map.html', question=question, number=questionnumber)
     except (IndexError, ValueError):
         abort(404)
 
