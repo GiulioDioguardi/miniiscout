@@ -89,6 +89,55 @@
     ]
   },
   {
+    "title": "Pretpark",
+    "body": [
+      "Soms wil je even lol hebben in een pretpark. We gaan naar deze op de foto",
+      "/static/images/dlp.jpg"
+    ],
+    "answer": [
+      {
+        "lng": 2.777832,
+        "lat": 48.8799472
+      },
+      {
+        "lng": 2.7662449,
+        "lat": 48.8739636
+      },
+      {
+        "lng": 2.7615242,
+        "lat": 48.866963
+      },
+      {
+        "lng": 2.7671032,
+        "lat": 48.8564038
+      },
+      {
+        "lng": 2.7813511,
+        "lat": 48.8501915
+      },
+      {
+        "lng": 2.795599,
+        "lat": 48.8508127
+      },
+      {
+        "lng": 2.8095894,
+        "lat": 48.8583238
+      },
+      {
+        "lng": 2.8099327,
+        "lat": 48.8693343
+      },
+      {
+        "lng": 2.7968865,
+        "lat": 48.8797778
+      },
+      {
+        "lng": 2.777832,
+        "lat": 48.8799472
+      }
+    ]
+  },
+  {
     "title": "Zweed/Zweet",
     "body": [
       "Zweed of zweet, als je het zo uitspreekt, dan kun je niet direct verstaan wat je bedoelt. Het wordt al helemaal lastig als ze allebei in een zin voorkomen.",
@@ -187,6 +236,79 @@
       {
         "lng": -70.0619389,
         "lat": 12.5447815
+      }
+    ]
+  },
+  {
+    "title": "Op een onbewoond eiland",
+    "body": [
+      "Over de hele wereld zijn duizenden eilanden te vinden, maar bij welk land horen nou de meeste eilanden?",
+      "We gaan naar het grootste eiland van dit land."
+    ],
+    "answer": [
+      {
+        "lng": 18.1362112,
+        "lat": 56.8830689
+      },
+      {
+        "lng": 18.2680472,
+        "lat": 56.9010717
+      },
+      {
+        "lng": 18.4081229,
+        "lat": 56.9864665
+      },
+      {
+        "lng": 18.5948904,
+        "lat": 57.13581
+      },
+      {
+        "lng": 18.8338431,
+        "lat": 57.2934589
+      },
+      {
+        "lng": 19.0261038,
+        "lat": 57.4149521
+      },
+      {
+        "lng": 19.0453299,
+        "lat": 57.4725945
+      },
+      {
+        "lng": 18.8860281,
+        "lat": 57.479978
+      },
+      {
+        "lng": 18.8887747,
+        "lat": 57.6199808
+      },
+      {
+        "lng": 19.4683035,
+        "lat": 57.9421367
+      },
+      {
+        "lng": 19.3639334,
+        "lat": 58.0643847
+      },
+      {
+        "lng": 18.6168631,
+        "lat": 57.9319306
+      },
+      {
+        "lng": 18.0812796,
+        "lat": 57.5743548
+      },
+      {
+        "lng": 17.894512,
+        "lat": 57.3008785
+      },
+      {
+        "lng": 17.9961356,
+        "lat": 56.9145681
+      },
+      {
+        "lng": 18.1362112,
+        "lat": 56.8830689
       }
     ]
   },
@@ -468,6 +590,51 @@
     ]
   },
   {
+    "title": "Formule 1",
+    "body": [
+      "Je kan racen in verschillende voertuigen. Fietsen, karts, auto's en bovenal raceauto's.",
+      "Waar is de bekendste plek van Nederland aan zee waar ze racen met raceauto's?"
+    ],
+    "answer": [
+      {
+        "lng": 4.5380088,
+        "lat": 52.3845962
+      },
+      {
+        "lng": 4.541442,
+        "lat": 52.3837056
+      },
+      {
+        "lng": 4.5517846,
+        "lat": 52.3848712
+      },
+      {
+        "lng": 4.5548101,
+        "lat": 52.3880929
+      },
+      {
+        "lng": 4.5527502,
+        "lat": 52.389612
+      },
+      {
+        "lng": 4.5449396,
+        "lat": 52.3924143
+      },
+      {
+        "lng": 4.5412918,
+        "lat": 52.3931476
+      },
+      {
+        "lng": 4.5369144,
+        "lat": 52.384976
+      },
+      {
+        "lng": 4.5380088,
+        "lat": 52.3845962
+      }
+    ]
+  },
+  {
     "title": "Vliegen",
     "body": [
       "Een tekst van een bekend liedje luidt: \"We moeten rennen, springen, vliegen, duiken, vallen, opstaan en weer doorgaan. Maar waar kan je hier in de buurt echt beginnen met vliegen?"
@@ -609,6 +776,67 @@
     ]
   },
   {
+    "title": "Niet zo druk",
+    "body": [
+      "Door corona hebben veel attractieparken de deuren voor een deel van het jaar moeten sluiten, maar in Europa moet er toch één het meest drukbezocht zijn van 2020",
+      "We gaan naar de ingang van dit park."
+    ],
+    "answer": [
+      {
+        "lng": 5.0433024,
+        "lat": 51.649698
+      },
+      {
+        "lng": 5.0432058,
+        "lat": 51.6496414
+      },
+      {
+        "lng": 5.043179,
+        "lat": 51.6494816
+      },
+      {
+        "lng": 5.0433239,
+        "lat": 51.6493917
+      },
+      {
+        "lng": 5.0435384,
+        "lat": 51.6493585
+      },
+      {
+        "lng": 5.0435492,
+        "lat": 51.6491022
+      },
+      {
+        "lng": 5.0438388,
+        "lat": 51.6490256
+      },
+      {
+        "lng": 5.0440588,
+        "lat": 51.6491621
+      },
+      {
+        "lng": 5.0439247,
+        "lat": 51.6493984
+      },
+      {
+        "lng": 5.0441983,
+        "lat": 51.6495349
+      },
+      {
+        "lng": 5.0441553,
+        "lat": 51.6497479
+      },
+      {
+        "lng": 5.0437262,
+        "lat": 51.6497912
+      },
+      {
+        "lng": 5.0433024,
+        "lat": 51.649698
+      }
+    ]
+  },
+  {
     "title": "Het spoor bijster",
     "body": [
       "We gaan naar het Best(s)e treinstation"
@@ -704,6 +932,66 @@
     ]
   },
   {
+    "title": "Max Verstappen",
+    "body": [
+      "Op dit circuit werd Max Verstappen in 2021 de eerste wereldkampioen Formule 1"
+    ],
+    "answer": [
+      {
+        "lng": 54.609693,
+        "lat": 24.4617307
+      },
+      {
+        "lng": 54.6114526,
+        "lat": 24.4646214
+      },
+      {
+        "lng": 54.6090493,
+        "lat": 24.4722773
+      },
+      {
+        "lng": 54.6067748,
+        "lat": 24.4789955
+      },
+      {
+        "lng": 54.6081052,
+        "lat": 24.4819638
+      },
+      {
+        "lng": 54.6133838,
+        "lat": 24.4832917
+      },
+      {
+        "lng": 54.6113667,
+        "lat": 24.4854398
+      },
+      {
+        "lng": 54.6051011,
+        "lat": 24.487705
+      },
+      {
+        "lng": 54.6033416,
+        "lat": 24.4870802
+      },
+      {
+        "lng": 54.6036849,
+        "lat": 24.484854
+      },
+      {
+        "lng": 54.6038566,
+        "lat": 24.4802062
+      },
+      {
+        "lng": 54.5995221,
+        "lat": 24.4674338
+      },
+      {
+        "lng": 54.609693,
+        "lat": 24.4617307
+      }
+    ]
+  },
+  {
     "title": "Huis",
     "body": [
       "Op deze plek aan de andere kant van de oceaan staat al heel lang een huis die wel heel erg wit is.",
@@ -741,6 +1029,39 @@
       {
         "lng": -77.0368523,
         "lat": 38.8979518
+      }
+    ]
+  },
+  {
+    "title": "Oog van de stad",
+    "body": [
+      "Raadsel: Ik ben een bekend oog. Ik sta in een Europese hoofdstad. Aan de andere kant van het water kan ik zien hoe laat het is. Mijn passagiers zien dat ook",
+      "Wat ben ik en waar sta ik?"
+    ],
+    "answer": [
+      {
+        "lng": -0.1206628,
+        "lat": 51.5030201
+      },
+      {
+        "lng": -0.1195362,
+        "lat": 51.5027196
+      },
+      {
+        "lng": -0.1190588,
+        "lat": 51.5041087
+      },
+      {
+        "lng": -0.1199708,
+        "lat": 51.5043024
+      },
+      {
+        "lng": -0.1207486,
+        "lat": 51.503875
+      },
+      {
+        "lng": -0.1206628,
+        "lat": 51.5030201
       }
     ]
   },
@@ -1059,6 +1380,52 @@
     ]
   },
   {
+    "title": "Wow! Wat veel!",
+    "body": [
+      "Volgens het woordenboek is er één taal die de allermeeste worden heeft. Deze taal wordt ook over heel de wereld gesproken.",
+      "Vanaf Frankrijk kun je ongeveer 32 kilometer zwemmen om naar het land te komen waar deze taal is ontstaan.",
+      "We zijn op zoek naar het huis van de minister-president van dat land."
+    ],
+    "answer": [
+      {
+        "lng": -0.1282143,
+        "lat": 51.5033231
+      },
+      {
+        "lng": -0.1279903,
+        "lat": 51.5033248
+      },
+      {
+        "lng": -0.1279903,
+        "lat": 51.503359
+      },
+      {
+        "lng": -0.1273077,
+        "lat": 51.5033507
+      },
+      {
+        "lng": -0.1273037,
+        "lat": 51.5035953
+      },
+      {
+        "lng": -0.1274297,
+        "lat": 51.5035953
+      },
+      {
+        "lng": -0.1274485,
+        "lat": 51.5034892
+      },
+      {
+        "lng": -0.1282116,
+        "lat": 51.5034976
+      },
+      {
+        "lng": -0.1282143,
+        "lat": 51.5033231
+      }
+    ]
+  },
+  {
     "title": "Uitstel is (meestal) afstel",
     "body": [
       "Deze beroemde kathedraal in Spanje is nog steeds niet af"
@@ -1149,6 +1516,75 @@
       {
         "lng": 40.3571263,
         "lat": 51.1934581
+      }
+    ]
+  },
+  {
+    "title": "Die van die ijsberg",
+    "body": [
+      "Bijna iedereen op de wereld kent het verhaal van die grote boot die tegen een ijsberg botste en daardoor zonk. Maar waar werd dit schip eigenlijk gebouwd?",
+      "We gaan naar het gebouw wat hier is geplaatst als monument en museum."
+    ],
+    "answer": [
+      {
+        "lng": -5.9110481,
+        "lat": 54.6079405
+      },
+      {
+        "lng": -5.9097713,
+        "lat": 54.6076577
+      },
+      {
+        "lng": -5.9090418,
+        "lat": 54.6072911
+      },
+      {
+        "lng": -5.9077382,
+        "lat": 54.6081176
+      },
+      {
+        "lng": -5.9083498,
+        "lat": 54.608422
+      },
+      {
+        "lng": -5.9105545,
+        "lat": 54.6087855
+      },
+      {
+        "lng": -5.9110481,
+        "lat": 54.6079405
+      }
+    ]
+  },
+  {
+    "title": "Olympische schaatsers",
+    "body": [
+      "Hier worden onze olympische schaatsers getraind en zijn er geregeld Nederlandse wedstrijden"
+    ],
+    "answer": [
+      {
+        "lng": 5.9398937,
+        "lat": 52.9392942
+      },
+      {
+        "lng": 5.9421575,
+        "lat": 52.9372315
+      },
+      {
+        "lng": 5.9451294,
+        "lat": 52.9384471
+      },
+      {
+        "lng": 5.9424794,
+        "lat": 52.9407102
+      },
+      {
+        "lng": 5.9395826,
+        "lat": 52.9396433
+      },
+      {
+        "lng": 5.9398937,
+        "lat": 52.9392942
       }
     ]
   },
