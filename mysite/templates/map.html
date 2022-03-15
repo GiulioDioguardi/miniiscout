@@ -40,7 +40,7 @@ const triangleCoords = [
     <p>{{ line }}</p>
     {% endif %}
     {% endfor %}
-    <button type="button" onclick="checkPosition('{{ question.title }}')">Controleer antwoord</button>
+    <button type="button" onclick="checkPosition('{{ question.hashed_title }}')">Controleer antwoord</button>
     <p><a href="/list">Ga terug naar de vragenlijst</a></p>
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
