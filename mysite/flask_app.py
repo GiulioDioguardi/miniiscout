@@ -1,5 +1,6 @@
 import hashlib
 
+import werkzeug.exceptions
 from flask import Flask, render_template, abort, request
 
 from question import get_questions
@@ -38,10 +39,12 @@ def map_page(questionhash):
     else:
         abort(404)
 
-    try:
-        return render_template('map.html', question=question, number=questionnumber)
-    except (IndexError, ValueError):
-        abort(404)
+    return render_template('map.html', question=question, number=questionnumber)
+
+@app.errorhandler(werkzeug.exceptions.NotFound)
+def page_not_found(e):
+    # note that we set the 404 status explicitly
+    return render_template('404.html'), 404
 
 if __name__ == "__main__":
     app.run(debug=True)
