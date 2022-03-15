@@ -1,5 +1,3 @@
-import hashlib
-
 import werkzeug.exceptions
 from flask import Flask, render_template, abort, request
 
