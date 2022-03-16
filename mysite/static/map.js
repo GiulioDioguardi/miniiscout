@@ -45,7 +45,7 @@ function initMap() {
 
 function checkPosition(qTitleHash) {
     if (google.maps.geometry.poly.containsLocation(marker.position, polygon)) {
-        alert("Goed gedaan! Dit is het juiste antwoord.\nJe vraag wordt als goed gemarkeerd en je keert terug naar de vragenlijst");
+        alert("Goed gedaan! Dit is het juiste antwoord.\nJe vraag wordt als goed gemarkeerd en je keert terug naar de vragenlijst.");
         //Write the hash of the title as a key for the cookie
         setCookie(qTitleHash, "FQzEhblF99", 2000)
         window.location.replace("/list");
