@@ -349,6 +349,34 @@
     ]
   },
   {
+    "title": "Viervoeterschool",
+    "body": [
+      "In onze provincie is een school, maar niet voor kinderen. De school in kwestie draagt dezelfde naam als het eerste woord van de yell van de welpen."
+    ],
+    "answer": [
+      {
+        "lng": 5.7277181,
+        "lat": 51.4990858
+      },
+      {
+        "lng": 5.7283726,
+        "lat": 51.4987719
+      },
+      {
+        "lng": 5.7286891,
+        "lat": 51.498989
+      },
+      {
+        "lng": 5.7280239,
+        "lat": 51.4993096
+      },
+      {
+        "lng": 5.7277181,
+        "lat": 51.4990858
+      }
+    ]
+  },
+  {
     "title": "Help! Een spook!",
     "body": [
       "Je hebt verschillende soorten spoken. Enge spoken, lieve spoken en zelfs domme spoken",
