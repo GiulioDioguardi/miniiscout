@@ -1407,6 +1407,38 @@
     ]
   },
   {
+    "title": "Rebus",
+    "body": [
+      "/static/images/rebus.png"
+    ],
+    "answer": [
+      {
+        "lng": -72.3709189,
+        "lat": 18.5342143
+      },
+      {
+        "lng": -72.192391,
+        "lat": 18.4808213
+      },
+      {
+        "lng": -72.1422659,
+        "lat": 18.6455044
+      },
+      {
+        "lng": -72.3379599,
+        "lat": 18.6942929
+      },
+      {
+        "lng": -72.432717,
+        "lat": 18.6721772
+      },
+      {
+        "lng": -72.3709189,
+        "lat": 18.5342143
+      }
+    ]
+  },
+  {
     "title": "WK voetbal 2022",
     "body": [
       "Omdat het er zo warm is, hebben we toch maar besloten om deze Wereldkampioenschappen Voetbal maar in de winter te houden. Aan jullie de vraag: in welke stad?"
