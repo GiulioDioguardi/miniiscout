@@ -240,6 +240,42 @@
     ]
   },
   {
+    "title": "Websitemaker",
+    "body": [
+      "De naam van de maker van deze website blijkt ook een plaatsnaam."
+    ],
+    "answer": [
+      {
+        "lng": -99.2001311,
+        "lat": 21.0146861
+      },
+      {
+        "lng": -99.2013757,
+        "lat": 21.0044702
+      },
+      {
+        "lng": -99.1928355,
+        "lat": 20.9999429
+      },
+      {
+        "lng": -99.1781156,
+        "lat": 21.0013852
+      },
+      {
+        "lng": -99.1768281,
+        "lat": 21.0124426
+      },
+      {
+        "lng": -99.1899602,
+        "lat": 21.0185319
+      },
+      {
+        "lng": -99.2001311,
+        "lat": 21.0146861
+      }
+    ]
+  },
+  {
     "title": "Op een onbewoond eiland",
     "body": [
       "Over de hele wereld zijn duizenden eilanden te vinden, maar bij welk land horen nou de meeste eilanden?",
