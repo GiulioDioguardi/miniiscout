@@ -1,3 +1,5 @@
+import traceback
+
 import werkzeug.exceptions
 from flask import Flask, render_template, abort, request
 
@@ -51,7 +53,8 @@ def handle_exception(e):
         return e
 
     # now you're handling non-HTTP exceptions only
-    return render_template("500_generic.html", e=e), 500
+    app.logger.error("\n" + traceback.format_exc())
+    return render_template("500_generic.html"), 500
 
 if __name__ == "__main__":
     app.run(debug=True)
