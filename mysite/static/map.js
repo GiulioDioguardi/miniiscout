@@ -38,7 +38,8 @@ function initMap() {
     }
     marker = new google.maps.Marker({
       position: e.latLng,
-      map
+      map,
+      draggable: true
     });
   });
 }
