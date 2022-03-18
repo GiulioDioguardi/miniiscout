@@ -15,6 +15,13 @@ def get_answered_questions():
             answered.append(cookie)
     return answered
 
+def log_answered(answered):
+    output = []
+    for i, q in enumerate(QUESTIONS):
+        if q['hashed_title'] in answered:
+            output.append(i + 1)
+    app.logger.info(f"Answered questions: {sorted(output)}")
+
 @app.context_processor
 def inject_debug():
     return dict(debug=app.debug)
@@ -26,7 +33,7 @@ def index():
 @app.route('/list')
 def question_list():
     answered = get_answered_questions()
-    app.logger.info(answered)
+    log_answered(answered)
     return render_template('list.html', questions=QUESTIONS, answered=answered)
 
 @app.route('/map/<questionhash>')
